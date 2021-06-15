@@ -1,0 +1,2840 @@
+fileFormatVersion: 2
+guid: 1ce3148114660e140a12ac4ccc31f0a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 656818029666638790
+    second: Tileset-Basico-Superficie-(Hierba)_0
+  - first:
+      213: -7332334103134088978
+    second: Tileset-Basico-Superficie-(Hierba)_1
+  - first:
+      213: 7535651348004416206
+    second: Tileset-Basico-Superficie-(Hierba)_2
+  - first:
+      213: 4560550093052737189
+    second: Tileset-Basico-Superficie-(Hierba)_3
+  - first:
+      213: -1616718146764879346
+    second: Tileset-Basico-Superficie-(Hierba)_4
+  - first:
+      213: 101688972044656468
+    second: Tileset-Basico-Superficie-(Hierba)_5
+  - first:
+      213: -8629412920609781620
+    second: Tileset-Basico-Superficie-(Hierba)_6
+  - first:
+      213: -8795449990739855402
+    second: Tileset-Basico-Superficie-(Hierba)_7
+  - first:
+      213: 875950682971108832
+    second: Tileset-Basico-Superficie-(Hierba)_8
+  - first:
+      213: -5754826660066404704
+    second: Tileset-Basico-Superficie-(Hierba)_9
+  - first:
+      213: -4003628295886394009
+    second: Tileset-Basico-Superficie-(Hierba)_10
+  - first:
+      213: -5249652248336229828
+    second: Tileset-Basico-Superficie-(Hierba)_11
+  - first:
+      213: 7355797008171248825
+    second: Tileset-Basico-Superficie-(Hierba)_12
+  - first:
+      213: -7476294198680204622
+    second: Tileset-Basico-Superficie-(Hierba)_13
+  - first:
+      213: -4973514958949929303
+    second: Tileset-Basico-Superficie-(Hierba)_14
+  - first:
+      213: 1129673379951886894
+    second: Tileset-Basico-Superficie-(Hierba)_15
+  - first:
+      213: -6331700433946048935
+    second: Tileset-Basico-Superficie-(Hierba)_16
+  - first:
+      213: 6885951818462546521
+    second: Tileset-Basico-Superficie-(Hierba)_17
+  - first:
+      213: 652151093840099209
+    second: Tileset-Basico-Superficie-(Hierba)_18
+  - first:
+      213: 8720440315609594033
+    second: Tileset-Basico-Superficie-(Hierba)_19
+  - first:
+      213: 3747158077880603339
+    second: Tileset-Basico-Superficie-(Hierba)_20
+  - first:
+      213: 2252628690578860794
+    second: Tileset-Basico-Superficie-(Hierba)_21
+  - first:
+      213: -8330270877423623051
+    second: Tileset-Basico-Superficie-(Hierba)_22
+  - first:
+      213: 5836900448991499857
+    second: Tileset-Basico-Superficie-(Hierba)_23
+  - first:
+      213: 7333184054071246520
+    second: Tileset-Basico-Superficie-(Hierba)_24
+  - first:
+      213: -6535335590305215005
+    second: Tileset-Basico-Superficie-(Hierba)_25
+  - first:
+      213: 8513556935509850149
+    second: Tileset-Basico-Superficie-(Hierba)_26
+  - first:
+      213: 7548803727839414251
+    second: Tileset-Basico-Superficie-(Hierba)_27
+  - first:
+      213: -1122675078408614081
+    second: Tileset-Basico-Superficie-(Hierba)_28
+  - first:
+      213: -3488755090193593765
+    second: Tileset-Basico-Superficie-(Hierba)_29
+  - first:
+      213: 2077475735135657474
+    second: Tileset-Basico-Superficie-(Hierba)_30
+  - first:
+      213: 466577352616609566
+    second: Tileset-Basico-Superficie-(Hierba)_31
+  - first:
+      213: 8824726900697698895
+    second: Tileset-Basico-Superficie-(Hierba)_32
+  - first:
+      213: 9067012275590421164
+    second: Tileset-Basico-Superficie-(Hierba)_33
+  - first:
+      213: -6985199721329137553
+    second: Tileset-Basico-Superficie-(Hierba)_34
+  - first:
+      213: -8986259565870527193
+    second: Tileset-Basico-Superficie-(Hierba)_35
+  - first:
+      213: 7674740861605186444
+    second: Tileset-Basico-Superficie-(Hierba)_36
+  - first:
+      213: -1561814055992779041
+    second: Tileset-Basico-Superficie-(Hierba)_37
+  - first:
+      213: -829468361473384692
+    second: Tileset-Basico-Superficie-(Hierba)_38
+  - first:
+      213: -62536470757571225
+    second: Tileset-Basico-Superficie-(Hierba)_39
+  - first:
+      213: 5721108914486887619
+    second: Tileset-Basico-Superficie-(Hierba)_40
+  - first:
+      213: -2568367258690467627
+    second: Tileset-Basico-Superficie-(Hierba)_41
+  - first:
+      213: -773132950057359674
+    second: Tileset-Basico-Superficie-(Hierba)_42
+  - first:
+      213: -8479475463147087657
+    second: Tileset-Basico-Superficie-(Hierba)_43
+  - first:
+      213: -6125357086345273768
+    second: Tileset-Basico-Superficie-(Hierba)_44
+  - first:
+      213: 5388132989492764468
+    second: Tileset-Basico-Superficie-(Hierba)_45
+  - first:
+      213: 7806031756718873198
+    second: Tileset-Basico-Superficie-(Hierba)_46
+  - first:
+      213: -4333516779266336658
+    second: Tileset-Basico-Superficie-(Hierba)_47
+  - first:
+      213: -7545713524082224548
+    second: Tileset-Basico-Superficie-(Hierba)_48
+  - first:
+      213: 6610882905387916691
+    second: Tileset-Basico-Superficie-(Hierba)_49
+  - first:
+      213: 4924082645866080613
+    second: Tileset-Basico-Superficie-(Hierba)_50
+  - first:
+      213: 1093924537055587632
+    second: Tileset-Basico-Superficie-(Hierba)_51
+  - first:
+      213: 9173944198481349847
+    second: Tileset-Basico-Superficie-(Hierba)_52
+  - first:
+      213: -4059096163529922512
+    second: Tileset-Basico-Superficie-(Hierba)_53
+  - first:
+      213: 7719420976300235465
+    second: Tileset-Basico-Superficie-(Hierba)_54
+  - first:
+      213: -4294558906316726063
+    second: Tileset-Basico-Superficie-(Hierba)_55
+  - first:
+      213: 4987184728965808087
+    second: Tileset-Basico-Superficie-(Hierba)_56
+  - first:
+      213: 150307288919879430
+    second: Tileset-Basico-Superficie-(Hierba)_57
+  - first:
+      213: -2950166482750781776
+    second: Tileset-Basico-Superficie-(Hierba)_58
+  - first:
+      213: 8116291031624494608
+    second: Tileset-Basico-Superficie-(Hierba)_59
+  - first:
+      213: -8474041693114072958
+    second: Tileset-Basico-Superficie-(Hierba)_60
+  - first:
+      213: -4154599042909313952
+    second: Tileset-Basico-Superficie-(Hierba)_61
+  - first:
+      213: -4330385182404832317
+    second: Tileset-Basico-Superficie-(Hierba)_62
+  - first:
+      213: -4253737086568409762
+    second: Tileset-Basico-Superficie-(Hierba)_63
+  - first:
+      213: 5800799753096674780
+    second: Tileset-Basico-Superficie-(Hierba)_64
+  - first:
+      213: 6869800038103765203
+    second: Tileset-Basico-Superficie-(Hierba)_65
+  - first:
+      213: -7958130834893334052
+    second: Tileset-Basico-Superficie-(Hierba)_66
+  - first:
+      213: 4284323462895833497
+    second: Tileset-Basico-Superficie-(Hierba)_67
+  - first:
+      213: 8990245694415255520
+    second: Tileset-Basico-Superficie-(Hierba)_68
+  - first:
+      213: 296525226892158130
+    second: Tileset-Basico-Superficie-(Hierba)_69
+  - first:
+      213: -511423254422391938
+    second: Tileset-Basico-Superficie-(Hierba)_70
+  - first:
+      213: 7012689784999027906
+    second: Tileset-Basico-Superficie-(Hierba)_71
+  - first:
+      213: 5743884210517422545
+    second: Tileset-Basico-Superficie-(Hierba)_72
+  - first:
+      213: -2889912005056110957
+    second: Tileset-Basico-Superficie-(Hierba)_73
+  - first:
+      213: -1950891498811410290
+    second: Tileset-Basico-Superficie-(Hierba)_74
+  - first:
+      213: -5700306294551597478
+    second: Tileset-Basico-Superficie-(Hierba)_75
+  - first:
+      213: -5388532873405751662
+    second: Tileset-Basico-Superficie-(Hierba)_76
+  - first:
+      213: 8871977078494638503
+    second: Tileset-Basico-Superficie-(Hierba)_77
+  - first:
+      213: -8014911466710613126
+    second: Tileset-Basico-Superficie-(Hierba)_78
+  - first:
+      213: -4901753488187749181
+    second: Tileset-Basico-Superficie-(Hierba)_79
+  - first:
+      213: -4345866884076730930
+    second: Tileset-Basico-Superficie-(Hierba)_80
+  - first:
+      213: -7951825192877328906
+    second: Tileset-Basico-Superficie-(Hierba)_81
+  - first:
+      213: -2833151404033999709
+    second: Tileset-Basico-Superficie-(Hierba)_82
+  - first:
+      213: -8883437763440507746
+    second: Tileset-Basico-Superficie-(Hierba)_83
+  - first:
+      213: -3653975443747736134
+    second: Tileset-Basico-Superficie-(Hierba)_84
+  - first:
+      213: -2735063687258098890
+    second: Tileset-Basico-Superficie-(Hierba)_85
+  - first:
+      213: -2363846571609061287
+    second: Tileset-Basico-Superficie-(Hierba)_86
+  - first:
+      213: 7382473138504983365
+    second: Tileset-Basico-Superficie-(Hierba)_87
+  - first:
+      213: -8462649678517294768
+    second: Tileset-Basico-Superficie-(Hierba)_88
+  - first:
+      213: -2175797562996576362
+    second: Tileset-Basico-Superficie-(Hierba)_89
+  - first:
+      213: -3762801007999612857
+    second: Tileset-Basico-Superficie-(Hierba)_90
+  - first:
+      213: -7806544697517582395
+    second: Tileset-Basico-Superficie-(Hierba)_91
+  - first:
+      213: 8883838389175860487
+    second: Tileset-Basico-Superficie-(Hierba)_92
+  - first:
+      213: -3375524061061290709
+    second: Tileset-Basico-Superficie-(Hierba)_93
+  - first:
+      213: 4941138018273073222
+    second: Tileset-Basico-Superficie-(Hierba)_94
+  - first:
+      213: -933120151424929215
+    second: Tileset-Basico-Superficie-(Hierba)_95
+  - first:
+      213: 8384953364696800488
+    second: Tileset-Basico-Superficie-(Hierba)_96
+  - first:
+      213: -4051915283595765879
+    second: Tileset-Basico-Superficie-(Hierba)_97
+  - first:
+      213: 8560425244414268324
+    second: Tileset-Basico-Superficie-(Hierba)_98
+  - first:
+      213: -2569786832136894162
+    second: Tileset-Basico-Superficie-(Hierba)_99
+  - first:
+      213: -9148657107549137422
+    second: Tileset-Basico-Superficie-(Hierba)_100
+  - first:
+      213: 662278346602077181
+    second: Tileset-Basico-Superficie-(Hierba)_101
+  - first:
+      213: -1127736332474677796
+    second: Tileset-Basico-Superficie-(Hierba)_102
+  - first:
+      213: -6985146553512706200
+    second: Tileset-Basico-Superficie-(Hierba)_103
+  - first:
+      213: 3799647104492288099
+    second: Tileset-Basico-Superficie-(Hierba)_104
+  - first:
+      213: -2303646462681891612
+    second: Tileset-Basico-Superficie-(Hierba)_105
+  - first:
+      213: -5504841781396986395
+    second: Tileset-Basico-Superficie-(Hierba)_106
+  - first:
+      213: 8599748989116316829
+    second: Tileset-Basico-Superficie-(Hierba)_107
+  - first:
+      213: -7967283794559950419
+    second: Tileset-Basico-Superficie-(Hierba)_108
+  - first:
+      213: -9006601604329110048
+    second: Tileset-Basico-Superficie-(Hierba)_109
+  - first:
+      213: 3413512038475617954
+    second: Tileset-Basico-Superficie-(Hierba)_110
+  - first:
+      213: -4317040278395464081
+    second: Tileset-Basico-Superficie-(Hierba)_111
+  - first:
+      213: -657069761564261387
+    second: Tileset-Basico-Superficie-(Hierba)_112
+  - first:
+      213: -4613077714197553116
+    second: Tileset-Basico-Superficie-(Hierba)_113
+  - first:
+      213: -6261366195566803417
+    second: Tileset-Basico-Superficie-(Hierba)_114
+  - first:
+      213: 1210279851778381143
+    second: Tileset-Basico-Superficie-(Hierba)_115
+  - first:
+      213: -7594586702436558654
+    second: Tileset-Basico-Superficie-(Hierba)_116
+  - first:
+      213: 9032650308683261807
+    second: Tileset-Basico-Superficie-(Hierba)_117
+  - first:
+      213: 741465739816055731
+    second: Tileset-Basico-Superficie-(Hierba)_118
+  - first:
+      213: 3346049767593729938
+    second: Tileset-Basico-Superficie-(Hierba)_119
+  - first:
+      213: -6645682876412643641
+    second: Tileset-Basico-Superficie-(Hierba)_120
+  - first:
+      213: 6840469354025531332
+    second: Tileset-Basico-Superficie-(Hierba)_121
+  - first:
+      213: -7284333282949689895
+    second: Tileset-Basico-Superficie-(Hierba)_122
+  - first:
+      213: -2247654719853448804
+    second: Tileset-Basico-Superficie-(Hierba)_123
+  - first:
+      213: 2452868549490638140
+    second: Tileset-Basico-Superficie-(Hierba)_124
+  - first:
+      213: -3113048299323876052
+    second: Tileset-Basico-Superficie-(Hierba)_125
+  - first:
+      213: -2546388869332663941
+    second: Tileset-Basico-Superficie-(Hierba)_126
+  - first:
+      213: -543995209724186213
+    second: Tileset-Basico-Superficie-(Hierba)_127
+  - first:
+      213: -3365854347481312108
+    second: Tileset-Basico-Superficie-(Hierba)_128
+  - first:
+      213: 1553948145970187088
+    second: Tileset-Basico-Superficie-(Hierba)_129
+  - first:
+      213: -890467057631681255
+    second: Tileset-Basico-Superficie-(Hierba)_130
+  - first:
+      213: -299801603018753961
+    second: Tileset-Basico-Superficie-(Hierba)_131
+  - first:
+      213: -1406736845535146131
+    second: Tileset-Basico-Superficie-(Hierba)_132
+  - first:
+      213: -8345512292236629892
+    second: Tileset-Basico-Superficie-(Hierba)_133
+  - first:
+      213: 6263380641759705008
+    second: Tileset-Basico-Superficie-(Hierba)_134
+  - first:
+      213: 7570301751271319832
+    second: Tileset-Basico-Superficie-(Hierba)_135
+  - first:
+      213: 7472626043868640487
+    second: Tileset-Basico-Superficie-(Hierba)_136
+  - first:
+      213: 5977949910859909386
+    second: Tileset-Basico-Superficie-(Hierba)_137
+  - first:
+      213: -8321021759078433851
+    second: Tileset-Basico-Superficie-(Hierba)_138
+  - first:
+      213: 1895868449133381522
+    second: Tileset-Basico-Superficie-(Hierba)_139
+  - first:
+      213: -728953663613047590
+    second: Tileset-Basico-Superficie-(Hierba)_140
+  - first:
+      213: 2596843451636619152
+    second: Tileset-Basico-Superficie-(Hierba)_141
+  - first:
+      213: -1460922238180879943
+    second: Tileset-Basico-Superficie-(Hierba)_142
+  - first:
+      213: -6111616252450912224
+    second: Tileset-Basico-Superficie-(Hierba)_143
+  - first:
+      213: -4367302570611934006
+    second: Tileset-Basico-Superficie-(Hierba)_144
+  - first:
+      213: -4569196067045144930
+    second: Tileset-Basico-Superficie-(Hierba)_145
+  - first:
+      213: -1689964340619098369
+    second: Tileset-Basico-Superficie-(Hierba)_146
+  - first:
+      213: -638107679413580726
+    second: Tileset-Basico-Superficie-(Hierba)_147
+  - first:
+      213: 8547492282327052598
+    second: Tileset-Basico-Superficie-(Hierba)_148
+  - first:
+      213: -3714303868306676916
+    second: Tileset-Basico-Superficie-(Hierba)_149
+  - first:
+      213: 6106854155290847402
+    second: Tileset-Basico-Superficie-(Hierba)_150
+  - first:
+      213: 8155377169903652138
+    second: Tileset-Basico-Superficie-(Hierba)_151
+  - first:
+      213: -1438451255109524203
+    second: Tileset-Basico-Superficie-(Hierba)_152
+  - first:
+      213: 4847268862544936008
+    second: Tileset-Basico-Superficie-(Hierba)_153
+  - first:
+      213: 40321771364917677
+    second: Tileset-Basico-Superficie-(Hierba)_154
+  - first:
+      213: 694245402092085818
+    second: Tileset-Basico-Superficie-(Hierba)_155
+  - first:
+      213: 5098183080823178157
+    second: Tileset-Basico-Superficie-(Hierba)_156
+  - first:
+      213: 198439424292738730
+    second: Tileset-Basico-Superficie-(Hierba)_157
+  - first:
+      213: -7542107900528693436
+    second: Tileset-Basico-Superficie-(Hierba)_158
+  - first:
+      213: -7250145835034223998
+    second: Tileset-Basico-Superficie-(Hierba)_159
+  - first:
+      213: 5169406644997347411
+    second: Tileset-Basico-Superficie-(Hierba)_160
+  - first:
+      213: 7421534458499125617
+    second: Tileset-Basico-Superficie-(Hierba)_161
+  - first:
+      213: -5845166113553643330
+    second: Tileset-Basico-Superficie-(Hierba)_162
+  - first:
+      213: -1236094991172902386
+    second: Tileset-Basico-Superficie-(Hierba)_163
+  - first:
+      213: -2663797014059041145
+    second: Tileset-Basico-Superficie-(Hierba)_164
+  - first:
+      213: 4868772953660689102
+    second: Tileset-Basico-Superficie-(Hierba)_165
+  - first:
+      213: 847994041996230906
+    second: Tileset-Basico-Superficie-(Hierba)_166
+  - first:
+      213: -8734061575534540215
+    second: Tileset-Basico-Superficie-(Hierba)_167
+  - first:
+      213: -2425616159011748579
+    second: Tileset-Basico-Superficie-(Hierba)_168
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb1a5c948c7d1900800000000000000
+      internalID: 656818029666638790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0d5384bf05e3a90800000000000000
+      internalID: -7332334103134088978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca2ff4b9f2049860800000000000000
+      internalID: 7535651348004416206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a678c495245a4f30800000000000000
+      internalID: 4560550093052737189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ac62849634099e0800000000000000
+      internalID: -1616718146764879346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fdb40d495496100800000000000000
+      internalID: 101688972044656468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8843e65baa2e3880800000000000000
+      internalID: -8629412920609781620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7fc3e65d840f580800000000000000
+      internalID: -8795449990739855402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5f0435180082c00800000000000000
+      internalID: 875950682971108832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a65bce94afb220b0800000000000000
+      internalID: -5754826660066404704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d2dfae6414078c0800000000000000
+      internalID: -4003628295886394009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a969f081d7527b0800000000000000
+      internalID: -5249652248336229828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcadeff76a051660800000000000000
+      internalID: 7355797008171248825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba4a53990ede3890800000000000000
+      internalID: -7476294198680204622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aea2b2ee768afab0800000000000000
+      internalID: -4973514958949929303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e224f3c24f76daf00800000000000000
+      internalID: 1129673379951886894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956857a80084128a0800000000000000
+      internalID: -6331700433946048935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a4aef02b0df8f50800000000000000
+      internalID: 6885951818462546521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987b830f6f7ec0900800000000000000
+      internalID: 652151093840099209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8b7e0a34a350970800000000000000
+      internalID: 8720440315609594033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc21f452b64900430800000000000000
+      internalID: 3747158077880603339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa6ec0fbd1f24f10800000000000000
+      internalID: 2252628690578860794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574226cc5cee46c80800000000000000
+      internalID: -8330270877423623051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156d47b7806d00150800000000000000
+      internalID: 5836900448991499857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beb9775b04b4c560800000000000000
+      internalID: 7333184054071246520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edc3e308e2dd45a0800000000000000
+      internalID: -6535335590305215005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528b0241dea362670800000000000000
+      internalID: 8513556935509850149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be74305cefcb2c860800000000000000
+      internalID: 7548803727839414251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f4541e6f47b60f0800000000000000
+      internalID: -1122675078408614081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5accaccab3759fc0800000000000000
+      internalID: -3488755090193593765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e11469c2da4dc10800000000000000
+      internalID: 2077475735135657474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1784f251ad997600800000000000000
+      internalID: 466577352616609566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f429beb5c5ab77a70800000000000000
+      internalID: 8824726900697698895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa5ca420af74dd70800000000000000
+      internalID: 9067012275590421164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68e405dcd59f0f90800000000000000
+      internalID: -6985199721329137553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dc4dc39846a4380800000000000000
+      internalID: -8986259565870527193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b072fa628228a60800000000000000
+      internalID: 7674740861605186444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde96531462535ae0800000000000000
+      internalID: -1561814055992779041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f14f18be22d74f0800000000000000
+      internalID: -829468361473384692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7650df24963d12ff0800000000000000
+      internalID: -62536470757571225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4cf49fe36756f40800000000000000
+      internalID: 5721108914486887619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8c20506935b5cd0800000000000000
+      internalID: -2568367258690467627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c66eab9da74545f0800000000000000
+      internalID: -773132950057359674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d81a711ef9d25a80800000000000000
+      internalID: -8479475463147087657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ed7f9fe2c5efaa0800000000000000
+      internalID: -6125357086345273768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f9749086e76ca40800000000000000
+      internalID: 5388132989492764468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a95ac4688945c60800000000000000
+      internalID: 7806031756718873198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6892aff2714cd3c0800000000000000
+      internalID: -4333516779266336658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52d73c578d384790800000000000000
+      internalID: -7545713524082224548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_49
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d595bf9f29ebb50800000000000000
+      internalID: 6610882905387916691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5696387d31bd55440800000000000000
+      internalID: 4924082645866080613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_51
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d284212966e2f00800000000000000
+      internalID: 1093924537055587632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc8cb394a5605f70800000000000000
+      internalID: 9173944198481349847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038e5a79b813ba7c0800000000000000
+      internalID: -4059096163529922512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca131c8a74e02b60800000000000000
+      internalID: 7719420976300235465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d06002ad69a664c0800000000000000
+      internalID: -4294558906316726063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df7247761a063540800000000000000
+      internalID: 4987184728965808087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fa833deaff51200800000000000000
+      internalID: 150307288919879430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6406fe637ee07d0800000000000000
+      internalID: -2950166482750781776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01eaaa9f0bbd2a070800000000000000
+      internalID: 8116291031624494608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280061e3af7266a80800000000000000
+      internalID: -8474041693114072958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0646637be26e756c0800000000000000
+      internalID: -4154599042909313952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c31526be9167e3c0800000000000000
+      internalID: -4330385182404832317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e555f2338a0b7f4c0800000000000000
+      internalID: -4253737086568409762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd308834a4908050800000000000000
+      internalID: 5800799753096674780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0d325acbe665f50800000000000000
+      internalID: 6869800038103765203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9991e6b2a0f8190800000000000000
+      internalID: -7958130834893334052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99117cc7d79f47b30800000000000000
+      internalID: 4284323462895833497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e73b13a3d4c3cc70800000000000000
+      internalID: 8990245694415255520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b469df6f187d1400800000000000000
+      internalID: 296525226892158130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73774e724f07e8f0800000000000000
+      internalID: -511423254422391938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4a0e26434125160800000000000000
+      internalID: 7012689784999027906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1bddec14066bf40800000000000000
+      internalID: 5743884210517422545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e5e72c758f4e7d0800000000000000
+      internalID: -2889912005056110957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e883402a48a0de4e0800000000000000
+      internalID: -1950891498811410290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e245a60a174e0b0800000000000000
+      internalID: -5700306294551597478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_76
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e922cb6e51835b0800000000000000
+      internalID: -5388532873405751662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_77
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1b41ba5289f1b70800000000000000
+      internalID: 8871977078494638503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_78
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7342806c7055c090800000000000000
+      internalID: -8014911466710613126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc89005c2979fbb0800000000000000
+      internalID: -4901753488187749181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec50975281160b3c0800000000000000
+      internalID: -4345866884076730930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f57b8e1e1175a190800000000000000
+      internalID: -7951825192877328906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac77a70fcf9ea8d0800000000000000
+      internalID: -2833151404033999709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9486ddab60b7b480800000000000000
+      internalID: -8883437763440507746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab57a6981b87a4dc0800000000000000
+      internalID: -3653975443747736134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63339e2411a1b0ad0800000000000000
+      internalID: -2735063687258098890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95887bb311ee13fd0800000000000000
+      internalID: -2363846571609061287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543e3789430d37660800000000000000
+      internalID: 7382473138504983365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059276554f0ae8a80800000000000000
+      internalID: -8462649678517294768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_89
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fad62f4a30ec1e0800000000000000
+      internalID: -2175797562996576362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74883bd5b68d7cbc0800000000000000
+      internalID: -3762801007999612857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_91
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7514d55f499a390800000000000000
+      internalID: -7806544697517582395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d3ec442fbb94b70800000000000000
+      internalID: 8883838389175860487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_93
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2568a130cab721d0800000000000000
+      internalID: -3375524061061290709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648185d29d2729440800000000000000
+      internalID: 4941138018273073222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_95
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142fe898a24ec03f0800000000000000
+      internalID: -933120151424929215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec18f8e8a65d5470800000000000000
+      internalID: 8384953364696800488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9875c4d7484b4c7c0800000000000000
+      internalID: -4051915283595765879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_98
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3599b976dbcc670800000000000000
+      internalID: 8560425244414268324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_99
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e290102dd78465cd0800000000000000
+      internalID: -2569786832136894162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_100
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f55ea415d0790180800000000000000
+      internalID: -9148657107549137422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb56a7b5a2e03900800000000000000
+      internalID: 662278346602077181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_102
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd58b86d7c97950f0800000000000000
+      internalID: -1127736332474677796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fb4dde736cf0f90800000000000000
+      internalID: -6985146553512706200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset-Basico-Superficie-(Hierba)_104
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368ba1ff8ee0bb430800000000000000
+      internalID: 3799647104492288099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

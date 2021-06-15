@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Boss1-2.unity
+    guid: 53d88234fbd195647ac84c3b195e108e
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel1-1.unity
+    guid: 4bed8d216978fe448994f9b4613d538f
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel1-2.unity
+    guid: f68dedc21eeec4f4baa2848eba1480bb
+  - enabled: 1
+    path: Assets/Scenes/Menus/Main.unity
+    guid: 31c0b2282a1f9b9419b948a4f0152d9c
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel2.unity
+    guid: 6d54216005e0e1b49bb73b8531bbf38b
+  - enabled: 1
+    path: Assets/Scenes/Zonas de prueba/pre alpha 1.unity
+    guid: 29510cbe6fbd53c489285b83ca1f71cb
+  - enabled: 1
+    path: Assets/Scenes/Zonas de prueba/Prueba controles.unity
+    guid: 7f457faf8a6552448bdff73d7fc4e67c
+  - enabled: 1
+    path: Assets/Scenes/Zonas de prueba/PruebaFondo.unity
+    guid: d30b2e15d48ea0d4f84e17f4927c55d1
+  - enabled: 1
+    path: Assets/Scenes/Menus/Options.unity
+    guid: 05cd3b546479669478409d2bd4262570
+  - enabled: 1
+    path: Assets/Scenes/Menus/Credits.unity
+    guid: 62a9e5efcce95da4f95da5c14878114e
+  - enabled: 1
+    path: Assets/Scenes/Menus/Niveles.unity
+    guid: 8ba61fe7287e39c4f9d8f1171f5de0a0
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel1 viejo.unity
+    guid: 9c240ea5239ca3a4a9458184735d27f9
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Mensaje.unity
+    guid: 49022dc4b65f0e94b84a9b77ba9b753d
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Boss2.unity
+    guid: 11196c9e9b9394741b34723cb370853e
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Mazmorra.unity
+    guid: 68edab86c74ec234db53c279670d000b
+  m_configObjects: {}

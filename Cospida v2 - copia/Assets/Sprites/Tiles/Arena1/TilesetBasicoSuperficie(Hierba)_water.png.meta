@@ -1,0 +1,4727 @@
+fileFormatVersion: 2
+guid: f76504ccbb2ba6940bbd7ecfa39795e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6084852371942242775
+    second: TilesetBasicoSuperficie(Hierba)_water_0
+  - first:
+      213: -1278461789291774680
+    second: TilesetBasicoSuperficie(Hierba)_water_1
+  - first:
+      213: -5718118137244037982
+    second: TilesetBasicoSuperficie(Hierba)_water_2
+  - first:
+      213: -3584485204927829042
+    second: TilesetBasicoSuperficie(Hierba)_water_3
+  - first:
+      213: -3578908004158419271
+    second: TilesetBasicoSuperficie(Hierba)_water_4
+  - first:
+      213: -263309208435665245
+    second: TilesetBasicoSuperficie(Hierba)_water_5
+  - first:
+      213: 165117957901478469
+    second: TilesetBasicoSuperficie(Hierba)_water_6
+  - first:
+      213: -699813292709525332
+    second: TilesetBasicoSuperficie(Hierba)_water_7
+  - first:
+      213: -568194934533712765
+    second: TilesetBasicoSuperficie(Hierba)_water_8
+  - first:
+      213: 4007140796371788550
+    second: TilesetBasicoSuperficie(Hierba)_water_9
+  - first:
+      213: -7804741628353551045
+    second: TilesetBasicoSuperficie(Hierba)_water_10
+  - first:
+      213: -7206025387368297485
+    second: TilesetBasicoSuperficie(Hierba)_water_11
+  - first:
+      213: -3733871879601445182
+    second: TilesetBasicoSuperficie(Hierba)_water_12
+  - first:
+      213: -5097799828866409504
+    second: TilesetBasicoSuperficie(Hierba)_water_13
+  - first:
+      213: -5849195140401035058
+    second: TilesetBasicoSuperficie(Hierba)_water_14
+  - first:
+      213: 4845773292814023583
+    second: TilesetBasicoSuperficie(Hierba)_water_15
+  - first:
+      213: 4409624623491374652
+    second: TilesetBasicoSuperficie(Hierba)_water_16
+  - first:
+      213: -2311264025114152016
+    second: TilesetBasicoSuperficie(Hierba)_water_17
+  - first:
+      213: -551536397892094550
+    second: TilesetBasicoSuperficie(Hierba)_water_18
+  - first:
+      213: 3479655443852644687
+    second: TilesetBasicoSuperficie(Hierba)_water_19
+  - first:
+      213: 4163996882831590774
+    second: TilesetBasicoSuperficie(Hierba)_water_20
+  - first:
+      213: 8647755004508381258
+    second: TilesetBasicoSuperficie(Hierba)_water_21
+  - first:
+      213: -8370882090643026700
+    second: TilesetBasicoSuperficie(Hierba)_water_22
+  - first:
+      213: 1342518720634134819
+    second: TilesetBasicoSuperficie(Hierba)_water_23
+  - first:
+      213: -2849840941520307528
+    second: TilesetBasicoSuperficie(Hierba)_water_24
+  - first:
+      213: 3084364306618222599
+    second: TilesetBasicoSuperficie(Hierba)_water_25
+  - first:
+      213: -4719062809994279292
+    second: TilesetBasicoSuperficie(Hierba)_water_26
+  - first:
+      213: -79856080245827574
+    second: TilesetBasicoSuperficie(Hierba)_water_27
+  - first:
+      213: -7976435727023537880
+    second: TilesetBasicoSuperficie(Hierba)_water_28
+  - first:
+      213: -1992646352117611220
+    second: TilesetBasicoSuperficie(Hierba)_water_29
+  - first:
+      213: 9172509186272233444
+    second: TilesetBasicoSuperficie(Hierba)_water_30
+  - first:
+      213: -3613984323718299884
+    second: TilesetBasicoSuperficie(Hierba)_water_31
+  - first:
+      213: 7068117023596613327
+    second: TilesetBasicoSuperficie(Hierba)_water_32
+  - first:
+      213: 320827031376448703
+    second: TilesetBasicoSuperficie(Hierba)_water_33
+  - first:
+      213: 2321323267495027673
+    second: TilesetBasicoSuperficie(Hierba)_water_34
+  - first:
+      213: -28112008213444143
+    second: TilesetBasicoSuperficie(Hierba)_water_35
+  - first:
+      213: -2466945593079320777
+    second: TilesetBasicoSuperficie(Hierba)_water_36
+  - first:
+      213: 5565465398456810446
+    second: TilesetBasicoSuperficie(Hierba)_water_37
+  - first:
+      213: -7383755414594999021
+    second: TilesetBasicoSuperficie(Hierba)_water_38
+  - first:
+      213: 547562734381725959
+    second: TilesetBasicoSuperficie(Hierba)_water_39
+  - first:
+      213: -2760028572385580721
+    second: TilesetBasicoSuperficie(Hierba)_water_40
+  - first:
+      213: -3878524795337263551
+    second: TilesetBasicoSuperficie(Hierba)_water_41
+  - first:
+      213: -8328794669460316286
+    second: TilesetBasicoSuperficie(Hierba)_water_42
+  - first:
+      213: -5990067097904741933
+    second: TilesetBasicoSuperficie(Hierba)_water_43
+  - first:
+      213: 6961495376538535930
+    second: TilesetBasicoSuperficie(Hierba)_water_44
+  - first:
+      213: -6781342371689183071
+    second: TilesetBasicoSuperficie(Hierba)_water_45
+  - first:
+      213: -1822244578600320773
+    second: TilesetBasicoSuperficie(Hierba)_water_46
+  - first:
+      213: -883014088107466994
+    second: TilesetBasicoSuperficie(Hierba)_water_47
+  - first:
+      213: 314157018529064833
+    second: TilesetBasicoSuperficie(Hierba)_water_48
+  - first:
+      213: 5057383758071021447
+    second: TilesetBasicoSuperficie(Hierba)_water_49
+  - first:
+      213: 363220789769457189
+    second: TilesetBasicoSuperficie(Hierba)_water_50
+  - first:
+      213: 1260344421591003467
+    second: TilesetBasicoSuperficie(Hierba)_water_51
+  - first:
+      213: -731621813888096406
+    second: TilesetBasicoSuperficie(Hierba)_water_52
+  - first:
+      213: 2469483876671357542
+    second: TilesetBasicoSuperficie(Hierba)_water_53
+  - first:
+      213: 8234326229711695817
+    second: TilesetBasicoSuperficie(Hierba)_water_54
+  - first:
+      213: 2913291632587111372
+    second: TilesetBasicoSuperficie(Hierba)_water_55
+  - first:
+      213: 8394744201801872158
+    second: TilesetBasicoSuperficie(Hierba)_water_56
+  - first:
+      213: -5633002466885783056
+    second: TilesetBasicoSuperficie(Hierba)_water_57
+  - first:
+      213: 3500788843482706791
+    second: TilesetBasicoSuperficie(Hierba)_water_58
+  - first:
+      213: 8174879012488614651
+    second: TilesetBasicoSuperficie(Hierba)_water_59
+  - first:
+      213: -8924321688761451274
+    second: TilesetBasicoSuperficie(Hierba)_water_60
+  - first:
+      213: -298251531607340137
+    second: TilesetBasicoSuperficie(Hierba)_water_61
+  - first:
+      213: -8064092618491888099
+    second: TilesetBasicoSuperficie(Hierba)_water_62
+  - first:
+      213: 876382364610818889
+    second: TilesetBasicoSuperficie(Hierba)_water_63
+  - first:
+      213: -6752494262490341627
+    second: TilesetBasicoSuperficie(Hierba)_water_64
+  - first:
+      213: 3987902667350514937
+    second: TilesetBasicoSuperficie(Hierba)_water_65
+  - first:
+      213: 5325949333048326739
+    second: TilesetBasicoSuperficie(Hierba)_water_66
+  - first:
+      213: 2279424690497809559
+    second: TilesetBasicoSuperficie(Hierba)_water_67
+  - first:
+      213: -3580163908979482874
+    second: TilesetBasicoSuperficie(Hierba)_water_68
+  - first:
+      213: -2357697556320527774
+    second: TilesetBasicoSuperficie(Hierba)_water_69
+  - first:
+      213: 696018332716028806
+    second: TilesetBasicoSuperficie(Hierba)_water_70
+  - first:
+      213: -901258366327601383
+    second: TilesetBasicoSuperficie(Hierba)_water_71
+  - first:
+      213: 947892594177896549
+    second: TilesetBasicoSuperficie(Hierba)_water_72
+  - first:
+      213: 2534914571673924930
+    second: TilesetBasicoSuperficie(Hierba)_water_73
+  - first:
+      213: 5709409927921206780
+    second: TilesetBasicoSuperficie(Hierba)_water_74
+  - first:
+      213: 8984906129051134974
+    second: TilesetBasicoSuperficie(Hierba)_water_75
+  - first:
+      213: 7088694043626664569
+    second: TilesetBasicoSuperficie(Hierba)_water_76
+  - first:
+      213: 6153088335106845460
+    second: TilesetBasicoSuperficie(Hierba)_water_77
+  - first:
+      213: -6850837148378996678
+    second: TilesetBasicoSuperficie(Hierba)_water_78
+  - first:
+      213: 3580654190722411977
+    second: TilesetBasicoSuperficie(Hierba)_water_79
+  - first:
+      213: 4505955379106188074
+    second: TilesetBasicoSuperficie(Hierba)_water_80
+  - first:
+      213: 2499730929661451144
+    second: TilesetBasicoSuperficie(Hierba)_water_81
+  - first:
+      213: -8386478170334338822
+    second: TilesetBasicoSuperficie(Hierba)_water_82
+  - first:
+      213: 5407432756109319461
+    second: TilesetBasicoSuperficie(Hierba)_water_83
+  - first:
+      213: -6915817310410318627
+    second: TilesetBasicoSuperficie(Hierba)_water_84
+  - first:
+      213: -2369548748490856168
+    second: TilesetBasicoSuperficie(Hierba)_water_85
+  - first:
+      213: 516470075319834290
+    second: TilesetBasicoSuperficie(Hierba)_water_86
+  - first:
+      213: 6751515755500633994
+    second: TilesetBasicoSuperficie(Hierba)_water_87
+  - first:
+      213: 112060655311623789
+    second: TilesetBasicoSuperficie(Hierba)_water_88
+  - first:
+      213: -3402340395683246636
+    second: TilesetBasicoSuperficie(Hierba)_water_89
+  - first:
+      213: 6805034817744327409
+    second: TilesetBasicoSuperficie(Hierba)_water_90
+  - first:
+      213: -7294043409507984455
+    second: TilesetBasicoSuperficie(Hierba)_water_91
+  - first:
+      213: -1186155819306166062
+    second: TilesetBasicoSuperficie(Hierba)_water_92
+  - first:
+      213: 565064680877757622
+    second: TilesetBasicoSuperficie(Hierba)_water_93
+  - first:
+      213: 4279199664121997291
+    second: TilesetBasicoSuperficie(Hierba)_water_94
+  - first:
+      213: 782224490842641215
+    second: TilesetBasicoSuperficie(Hierba)_water_95
+  - first:
+      213: -745218542637240731
+    second: TilesetBasicoSuperficie(Hierba)_water_96
+  - first:
+      213: -7418047927728467966
+    second: TilesetBasicoSuperficie(Hierba)_water_97
+  - first:
+      213: -3400541499146172026
+    second: TilesetBasicoSuperficie(Hierba)_water_98
+  - first:
+      213: -3106070938609091406
+    second: TilesetBasicoSuperficie(Hierba)_water_99
+  - first:
+      213: -3493926124241729276
+    second: TilesetBasicoSuperficie(Hierba)_water_100
+  - first:
+      213: 8749261098007079540
+    second: TilesetBasicoSuperficie(Hierba)_water_101
+  - first:
+      213: -5723952594770949195
+    second: TilesetBasicoSuperficie(Hierba)_water_102
+  - first:
+      213: 5080610649587860936
+    second: TilesetBasicoSuperficie(Hierba)_water_103
+  - first:
+      213: -2497776731148261541
+    second: TilesetBasicoSuperficie(Hierba)_water_104
+  - first:
+      213: -6971441105332053715
+    second: TilesetBasicoSuperficie(Hierba)_water_105
+  - first:
+      213: -6584002975761822221
+    second: TilesetBasicoSuperficie(Hierba)_water_106
+  - first:
+      213: 3387474494024573699
+    second: TilesetBasicoSuperficie(Hierba)_water_107
+  - first:
+      213: 6345786720996129391
+    second: TilesetBasicoSuperficie(Hierba)_water_108
+  - first:
+      213: -5769049150471300197
+    second: TilesetBasicoSuperficie(Hierba)_water_109
+  - first:
+      213: -8624019328177131138
+    second: TilesetBasicoSuperficie(Hierba)_water_110
+  - first:
+      213: 2673971499565444395
+    second: TilesetBasicoSuperficie(Hierba)_water_111
+  - first:
+      213: 3930159164139046103
+    second: TilesetBasicoSuperficie(Hierba)_water_112
+  - first:
+      213: -3363895882198715579
+    second: TilesetBasicoSuperficie(Hierba)_water_113
+  - first:
+      213: 1031713406318404626
+    second: TilesetBasicoSuperficie(Hierba)_water_114
+  - first:
+      213: 714728578172214853
+    second: TilesetBasicoSuperficie(Hierba)_water_115
+  - first:
+      213: -8617089732959293422
+    second: TilesetBasicoSuperficie(Hierba)_water_116
+  - first:
+      213: 5917916351114594472
+    second: TilesetBasicoSuperficie(Hierba)_water_117
+  - first:
+      213: 4333940126016536717
+    second: TilesetBasicoSuperficie(Hierba)_water_118
+  - first:
+      213: 7013573080382603152
+    second: TilesetBasicoSuperficie(Hierba)_water_119
+  - first:
+      213: 4564806993804110685
+    second: TilesetBasicoSuperficie(Hierba)_water_120
+  - first:
+      213: 3240284367139803762
+    second: TilesetBasicoSuperficie(Hierba)_water_121
+  - first:
+      213: -6493800883469520195
+    second: TilesetBasicoSuperficie(Hierba)_water_122
+  - first:
+      213: 5900651495680015476
+    second: TilesetBasicoSuperficie(Hierba)_water_123
+  - first:
+      213: -8267746757149624208
+    second: TilesetBasicoSuperficie(Hierba)_water_124
+  - first:
+      213: -7085013011957246193
+    second: TilesetBasicoSuperficie(Hierba)_water_125
+  - first:
+      213: -3522504080380093598
+    second: TilesetBasicoSuperficie(Hierba)_water_126
+  - first:
+      213: 2055048193990913728
+    second: TilesetBasicoSuperficie(Hierba)_water_127
+  - first:
+      213: -4928672123924174651
+    second: TilesetBasicoSuperficie(Hierba)_water_128
+  - first:
+      213: 7800905026478027046
+    second: TilesetBasicoSuperficie(Hierba)_water_129
+  - first:
+      213: -8520894875203330507
+    second: TilesetBasicoSuperficie(Hierba)_water_130
+  - first:
+      213: 7858345682027429057
+    second: TilesetBasicoSuperficie(Hierba)_water_131
+  - first:
+      213: -1820812998292979838
+    second: TilesetBasicoSuperficie(Hierba)_water_132
+  - first:
+      213: -7622952484727024387
+    second: TilesetBasicoSuperficie(Hierba)_water_133
+  - first:
+      213: 2392121243828170498
+    second: TilesetBasicoSuperficie(Hierba)_water_134
+  - first:
+      213: -6877988195729160492
+    second: TilesetBasicoSuperficie(Hierba)_water_135
+  - first:
+      213: 2589131725470112349
+    second: TilesetBasicoSuperficie(Hierba)_water_136
+  - first:
+      213: 1048762103833136579
+    second: TilesetBasicoSuperficie(Hierba)_water_137
+  - first:
+      213: -1141071889363955551
+    second: TilesetBasicoSuperficie(Hierba)_water_138
+  - first:
+      213: 4694988776093061144
+    second: TilesetBasicoSuperficie(Hierba)_water_139
+  - first:
+      213: -6951509394358160625
+    second: TilesetBasicoSuperficie(Hierba)_water_140
+  - first:
+      213: 8744023278389138467
+    second: TilesetBasicoSuperficie(Hierba)_water_141
+  - first:
+      213: -3686785620040673384
+    second: TilesetBasicoSuperficie(Hierba)_water_142
+  - first:
+      213: -644286153870010571
+    second: TilesetBasicoSuperficie(Hierba)_water_143
+  - first:
+      213: 8478843283488214264
+    second: TilesetBasicoSuperficie(Hierba)_water_144
+  - first:
+      213: -3697962328934085127
+    second: TilesetBasicoSuperficie(Hierba)_water_145
+  - first:
+      213: -2002499608415482206
+    second: TilesetBasicoSuperficie(Hierba)_water_146
+  - first:
+      213: 1757841025578690633
+    second: TilesetBasicoSuperficie(Hierba)_water_147
+  - first:
+      213: -7209569193264440159
+    second: TilesetBasicoSuperficie(Hierba)_water_148
+  - first:
+      213: -3984533581296210424
+    second: TilesetBasicoSuperficie(Hierba)_water_149
+  - first:
+      213: 3557718904582177086
+    second: TilesetBasicoSuperficie(Hierba)_water_150
+  - first:
+      213: -502347657994331668
+    second: TilesetBasicoSuperficie(Hierba)_water_151
+  - first:
+      213: -849837609612119138
+    second: TilesetBasicoSuperficie(Hierba)_water_152
+  - first:
+      213: 1386000396721882562
+    second: TilesetBasicoSuperficie(Hierba)_water_153
+  - first:
+      213: -1169176629764743014
+    second: TilesetBasicoSuperficie(Hierba)_water_154
+  - first:
+      213: 8760951902841490009
+    second: TilesetBasicoSuperficie(Hierba)_water_155
+  - first:
+      213: -258203899337569855
+    second: TilesetBasicoSuperficie(Hierba)_water_156
+  - first:
+      213: 4585506205484324515
+    second: TilesetBasicoSuperficie(Hierba)_water_157
+  - first:
+      213: -4130200758617021047
+    second: TilesetBasicoSuperficie(Hierba)_water_158
+  - first:
+      213: -249131861388989254
+    second: TilesetBasicoSuperficie(Hierba)_water_159
+  - first:
+      213: -3615996608810598680
+    second: TilesetBasicoSuperficie(Hierba)_water_160
+  - first:
+      213: 2226171061091842732
+    second: TilesetBasicoSuperficie(Hierba)_water_161
+  - first:
+      213: -5038477433640335839
+    second: TilesetBasicoSuperficie(Hierba)_water_162
+  - first:
+      213: -3042805216611289136
+    second: TilesetBasicoSuperficie(Hierba)_water_163
+  - first:
+      213: 1415865537520387583
+    second: TilesetBasicoSuperficie(Hierba)_water_164
+  - first:
+      213: -7062705887427710569
+    second: TilesetBasicoSuperficie(Hierba)_water_165
+  - first:
+      213: 9215618831225954264
+    second: TilesetBasicoSuperficie(Hierba)_water_166
+  - first:
+      213: -4450728035947293315
+    second: TilesetBasicoSuperficie(Hierba)_water_167
+  - first:
+      213: -3824953444397236939
+    second: TilesetBasicoSuperficie(Hierba)_water_168
+  - first:
+      213: -2365000898997045166
+    second: TilesetBasicoSuperficie(Hierba)_water_169
+  - first:
+      213: -453718232309822014
+    second: TilesetBasicoSuperficie(Hierba)_water_170
+  - first:
+      213: 8770918999302250337
+    second: TilesetBasicoSuperficie(Hierba)_water_171
+  - first:
+      213: 7834149697105014741
+    second: TilesetBasicoSuperficie(Hierba)_water_172
+  - first:
+      213: 3696761761989852958
+    second: TilesetBasicoSuperficie(Hierba)_water_173
+  - first:
+      213: -4378043670358274392
+    second: TilesetBasicoSuperficie(Hierba)_water_174
+  - first:
+      213: -5169747342261690812
+    second: TilesetBasicoSuperficie(Hierba)_water_175
+  - first:
+      213: -8085395088832113965
+    second: TilesetBasicoSuperficie(Hierba)_water_176
+  - first:
+      213: 6660906604427178326
+    second: TilesetBasicoSuperficie(Hierba)_water_177
+  - first:
+      213: -1144688053065694770
+    second: TilesetBasicoSuperficie(Hierba)_water_178
+  - first:
+      213: 7217148966861702308
+    second: TilesetBasicoSuperficie(Hierba)_water_179
+  - first:
+      213: 7043106633573220728
+    second: TilesetBasicoSuperficie(Hierba)_water_180
+  - first:
+      213: 413721830424829152
+    second: TilesetBasicoSuperficie(Hierba)_water_181
+  - first:
+      213: -3636006804501321726
+    second: TilesetBasicoSuperficie(Hierba)_water_182
+  - first:
+      213: 21819442292664194
+    second: TilesetBasicoSuperficie(Hierba)_water_183
+  - first:
+      213: 6271351657784767922
+    second: TilesetBasicoSuperficie(Hierba)_water_184
+  - first:
+      213: 673022509243503620
+    second: TilesetBasicoSuperficie(Hierba)_water_185
+  - first:
+      213: 4457822727899733496
+    second: TilesetBasicoSuperficie(Hierba)_water_186
+  - first:
+      213: -6081753499709055314
+    second: TilesetBasicoSuperficie(Hierba)_water_187
+  - first:
+      213: 852767273584615635
+    second: TilesetBasicoSuperficie(Hierba)_water_188
+  - first:
+      213: 4927143896263632508
+    second: TilesetBasicoSuperficie(Hierba)_water_189
+  - first:
+      213: -6297435484934436058
+    second: TilesetBasicoSuperficie(Hierba)_water_190
+  - first:
+      213: -9171140871530099582
+    second: TilesetBasicoSuperficie(Hierba)_water_191
+  - first:
+      213: 8336906104928534624
+    second: TilesetBasicoSuperficie(Hierba)_water_192
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92680b3b1034e8ba0800000000000000
+      internalID: -6084852371942242775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d7a56b6cdf14ee0800000000000000
+      internalID: -1278461789291774680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acc9dd99d925a0b0800000000000000
+      internalID: -5718118137244037982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb22a192b9514ec0800000000000000
+      internalID: -3584485204927829042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bec550d12a255ec0800000000000000
+      internalID: -3578908004158419271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a65a158ba9885cf0800000000000000
+      internalID: -263309208435665245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a61ca68ed9a4200800000000000000
+      internalID: 165117957901478469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8c3fe9483c946f0800000000000000
+      internalID: -699813292709525332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38411fba7bd5d18f0800000000000000
+      internalID: -568194934533712765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60367b4d2593c9730800000000000000
+      internalID: 4007140796371788550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35684e17dcffa390800000000000000
+      internalID: -7804741628353551045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb477fd61e0ffb90800000000000000
+      internalID: -7206025387368297485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c62983fe4f9e2cc0800000000000000
+      internalID: -3733871879601445182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebde50a01af049b0800000000000000
+      internalID: -5097799828866409504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8847a920c73dea0800000000000000
+      internalID: -5849195140401035058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b3144c225af3340800000000000000
+      internalID: 4845773292814023583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ed40c5b32223d30800000000000000
+      internalID: 4409624623491374652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b37ee06d9dbcefd0800000000000000
+      internalID: -2311264025114152016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa571fa719c8858f0800000000000000
+      internalID: -551536397892094550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41579fa0383a4030800000000000000
+      internalID: 3479655443852644687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675c2076a1d79c930800000000000000
+      internalID: 4163996882831590774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40245cdb5ff20870800000000000000
+      internalID: 8647755004508381258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc0b82e617a4db80800000000000000
+      internalID: -8370882090643026700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321a5b7d9a591a210800000000000000
+      internalID: 1342518720634134819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba315643c45378d0800000000000000
+      internalID: -2849840941520307528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7088fd5cefcddca20800000000000000
+      internalID: 3084364306618222599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486c8818065828eb0800000000000000
+      internalID: -4719062809994279292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08dacf615b44eef0800000000000000
+      internalID: -79856080245827574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821070d97f10e4190800000000000000
+      internalID: -7976435727023537880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_29
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c254d0343b2b854e0800000000000000
+      internalID: -1992646352117611220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e783c2c18c4b4f70800000000000000
+      internalID: 9172509186272233444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_31
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fb0f0c76c88ddc0800000000000000
+      internalID: -3613984323718299884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce0e560cfef61260800000000000000
+      internalID: 7068117023596613327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_33
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc49873c7ec37400800000000000000
+      internalID: 320827031376448703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_34
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3e3ef763ff63020800000000000000
+      internalID: 2321323267495027673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_35
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9c38807402c9ff0800000000000000
+      internalID: -28112008213444143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73faa44bd06a3cdd0800000000000000
+      internalID: -2466945593079320777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_37
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbfeb4fa418c3d40800000000000000
+      internalID: 5565465398456810446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_38
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31da2bc3291a78990800000000000000
+      internalID: -7383755414594999021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_39
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7097013e765599700800000000000000
+      internalID: 547562734381725959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49670df2a862b9d0800000000000000
+      internalID: -2760028572385580721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_41
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146b0697f36bc2ac0800000000000000
+      internalID: -3878524795337263551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_42
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f96af306d2a6c80800000000000000
+      internalID: -8328794669460316286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_43
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d102a016b10fdca0800000000000000
+      internalID: -5990067097904741933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_44
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af78a1059233c9060800000000000000
+      internalID: 6961495376538535930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_45
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a84923ca05d3e1a0800000000000000
+      internalID: -6781342371689183071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_46
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf085aed53616b6e0800000000000000
+      internalID: -1822244578600320773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_47
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f50b28d57eeb3f0800000000000000
+      internalID: -883014088107466994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187ee15d42c1c5400800000000000000
+      internalID: 314157018529064833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f37a89bbf6f2640800000000000000
+      internalID: 5057383758071021447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ece35426b6a0500800000000000000
+      internalID: 363220789769457189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41b397e294ad7110800000000000000
+      internalID: 1260344421591003467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67e54926d1c8d5f0800000000000000
+      internalID: -731621813888096406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6620d8f708e554220800000000000000
+      internalID: 2469483876671357542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfa5ae1414364270800000000000000
+      internalID: 8234326229711695817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbf877fd471e6820800000000000000
+      internalID: 2913291632587111372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13bba0df5f108470800000000000000
+      internalID: 8394744201801872158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1bf5ee91e83d1b0800000000000000
+      internalID: -5633002466885783056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763ff69b7ec459030800000000000000
+      internalID: 3500788843482706791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf21e254621037170800000000000000
+      internalID: 8174879012488614651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc3f0805b0762480800000000000000
+      internalID: -8924321688761451274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b04dcefc56cdbf0800000000000000
+      internalID: -298251531607340137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ef0f62d76961090800000000000000
+      internalID: -8064092618491888099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9437b0a0e19892c00800000000000000
+      internalID: 876382364610818889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f56689e325a42a0800000000000000
+      internalID: -6752494262490341627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc924ed850e75730800000000000000
+      internalID: 3987902667350514937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35af21843b299e940800000000000000
+      internalID: 5325949333048326739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_67
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c6069dda422af10800000000000000
+      internalID: 2279424690497809559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f9a9fa4e3b05ec0800000000000000
+      internalID: -3580163908979482874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_69
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a55bb6096c74fd0800000000000000
+      internalID: -2357697556320527774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_70
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683d2b66cf0c8a900800000000000000
+      internalID: 696018332716028806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_71
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917c1387a461e73f0800000000000000
+      internalID: -901258366327601383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5607231da47972d00800000000000000
+      internalID: 947892594177896549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_73
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245f5945f53dd2320800000000000000
+      internalID: 2534914571673924930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_74
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf505d66416eb3f40800000000000000
+      internalID: 5709409927921206780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_75
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efba252358cc0bc70800000000000000
+      internalID: 8984906129051134974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9727bc7dca9106260800000000000000
+      internalID: 7088694043626664569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_77
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ba4a58d39246550800000000000000
+      internalID: 6153088335106845460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_78
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30e1dc29efece0a0800000000000000
+      internalID: -6850837148378996678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_79
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cde58de30a01b130800000000000000
+      internalID: 3580654190722411977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b82613b8e588e30800000000000000
+      internalID: 4505955379106188074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_81
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b17805904d0b220800000000000000
+      internalID: 2499730929661451144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_82
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af067ac998e3d9b80800000000000000
+      internalID: -8386478170334338822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_83
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d15be117f0b0b40800000000000000
+      internalID: 5407432756109319461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_84
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcde793cc41600a0800000000000000
+      internalID: -6915817310410318627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_85
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8192b38b7fbad1fd0800000000000000
+      internalID: -2369548748490856168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_86
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6de801cceda2700800000000000000
+      internalID: 516470075319834290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_87
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f711efec332bd50800000000000000
+      internalID: 6751515755500633994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_88
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d669521829e1e8100800000000000000
+      internalID: 112060655311623789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_89
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd865ebf6578c0d0800000000000000
+      internalID: -3402340395683246636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_90
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2d0d3bc17507e50800000000000000
+      internalID: 6805034817744327409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_91
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb5fff1a2a56ca90800000000000000
+      internalID: -7294043409507984455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_92
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d85efd119de98fe0800000000000000
+      internalID: -1186155819306166062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_93
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b496da555387d700800000000000000
+      internalID: 565064680877757622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_94
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be766fe1c65c26b30800000000000000
+      internalID: 4279199664121997291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_95
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33594fa7050bda00800000000000000
+      internalID: 782224490842641215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ea21e0fa378a5f0800000000000000
+      internalID: -745218542637240731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2001ce456bccd0990800000000000000
+      internalID: -7418047927728467966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6890b6bf589dec0d0800000000000000
+      internalID: -3400541499146172026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc7a0120f405e4d0800000000000000
+      internalID: -3106070938609091406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4094d1d93b4138fc0800000000000000
+      internalID: -3493926124241729276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a2bd1fc9e9b6970800000000000000
+      internalID: 8749261098007079540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb808d117f6090b0800000000000000
+      internalID: -5723952594770949195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c540c2b774f18640800000000000000
+      internalID: 5080610649587860936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57ebabfb4d165dd0800000000000000
+      internalID: -2497776731148261541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2950204047704f90800000000000000
+      internalID: -6971441105332053715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd0a955d2ce0a4a0800000000000000
+      internalID: -6584002975761822221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303e70eca1ab20f20800000000000000
+      internalID: 3387474494024573699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a7d5db663c01850800000000000000
+      internalID: 6345786720996129391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_109
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b93660d5830ffa0800000000000000
+      internalID: -5769049150471300197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7136efec14515880800000000000000
+      internalID: -8624019328177131138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ded1b59eadb1520800000000000000
+      internalID: 2673971499565444395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d40149dfeaba8630800000000000000
+      internalID: 3930159164139046103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_113
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5437520948a0151d0800000000000000
+      internalID: -3363895882198715579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_114
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214ed9570e1615e00800000000000000
+      internalID: 1031713406318404626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_115
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e56c4ead93be900800000000000000
+      internalID: 714728578172214853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210bb4d0b82f96880800000000000000
+      internalID: -8617089732959293422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_117
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a849ae1199a02250800000000000000
+      internalID: 5917916351114594472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_118
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d800709159f352c30800000000000000
+      internalID: 4333940126016536717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_119
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f727e9e87355160800000000000000
+      internalID: 7013573080382603152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_120
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ba9e586c3795f30800000000000000
+      internalID: 4564806993804110685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_121
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2729e92d67dc7fc20800000000000000
+      internalID: 3240284367139803762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_122
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db27eaa808261e5a0800000000000000
+      internalID: -6493800883469520195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_123
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c7267b54353e150800000000000000
+      internalID: 5900651495680015476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_124
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0787537f020134d80800000000000000
+      internalID: -8267746757149624208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_125
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f079441243afcad90800000000000000
+      internalID: -7085013011957246193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_126
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b9411b33d8d1fc0800000000000000
+      internalID: -3522504080380093598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_127
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cee22fb17ff48c10800000000000000
+      internalID: 2055048193990913728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8212701d6d99bb0800000000000000
+      internalID: -4928672123924174651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_129
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62138c56ac1624c60800000000000000
+      internalID: 7800905026478027046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_130
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e1f03b143bfb980800000000000000
+      internalID: -8520894875203330507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_131
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc387333c37e0d60800000000000000
+      internalID: 7858345682027429057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_132
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f3552a93c2bb6e0800000000000000
+      internalID: -1820812998292979838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_133
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df41a207a15d53690800000000000000
+      internalID: -7622952484727024387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_134
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f2b06e895823120800000000000000
+      internalID: 2392121243828170498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_135
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6cb385d2a7c80a0800000000000000
+      internalID: -6877988195729160492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_136
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a175526917ee320800000000000000
+      internalID: 2589131725470112349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_137
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd8ddca393fd8e00800000000000000
+      internalID: 1048762103833136579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_138
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0174b89291a20f0800000000000000
+      internalID: -1141071889363955551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_139
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810197faa63f72140800000000000000
+      internalID: 4694988776093061144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_140
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03bd785907478f90800000000000000
+      internalID: -6951509394358160625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_141
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324912808d2095970800000000000000
+      internalID: 8744023278389138467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_142
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89715721308e5dcc0800000000000000
+      internalID: -3686785620040673384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_143
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53710e818290f07f0800000000000000
+      internalID: -644286153870010571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc85822b07eaa570800000000000000
+      internalID: 8478843283488214264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_145
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd8b1fbad23eacc0800000000000000
+      internalID: -3697962328934085127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_146
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae49814731b534e0800000000000000
+      internalID: -2002499608415482206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_147
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948e93d691b156810800000000000000
+      internalID: 1757841025578690633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac9fd3440772fb90800000000000000
+      internalID: -7209569193264440159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_149
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e693b91d714b8c0800000000000000
+      internalID: -3984533581296210424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_150
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31005e7e7e8f5130800000000000000
+      internalID: 3557718904582177086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_151
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce99f73777d4709f0800000000000000
+      internalID: -502347657994331668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_152
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e937d4a5235c434f0800000000000000
+      internalID: -849837609612119138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_153
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5882974001c3310800000000000000
+      internalID: 1386000396721882562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_154
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a902f2fbc0046cfe0800000000000000
+      internalID: -1169176629764743014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_155
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a462f8657259970800000000000000
+      internalID: 8760951902841490009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c90d5cebecaa6cf0800000000000000
+      internalID: -258203899337569855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_157
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a61e3d499df2af30800000000000000
+      internalID: 4585506205484324515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_158
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9856593fa449ea6c0800000000000000
+      internalID: -4130200758617021047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_159
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc6dab54e7ea8cf0800000000000000
+      internalID: -249131861388989254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_160
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeb3de1e3661ddc0800000000000000
+      internalID: -3615996608810598680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_161
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa32a909c2f4ee10800000000000000
+      internalID: 2226171061091842732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_162
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126cb07187bb31ab0800000000000000
+      internalID: -5038477433640335839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_163
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7bd27e6c8c5c5d0800000000000000
+      internalID: -3042805216611289136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5ce9d643a26a310800000000000000
+      internalID: 1415865537520387583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_165
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791bfca4a6a3cfd90800000000000000
+      internalID: -7062705887427710569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_166
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df9f94208474ef70800000000000000
+      internalID: 9215618831225954264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_167
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d755d79ae66db32c0800000000000000
+      internalID: -4450728035947293315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_168
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dbb489b190beac0800000000000000
+      internalID: -3824953444397236939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_169
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2583dc17634dd2fd0800000000000000
+      internalID: -2365000898997045166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_170
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd0e0feba114b9f0800000000000000
+      internalID: -453718232309822014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_171
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f922b0c5098b970800000000000000
+      internalID: 8770918999302250337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_172
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfad2574ad78bc60800000000000000
+      internalID: 7834149697105014741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_173
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ff6aa7c398d4330800000000000000
+      internalID: 3696761761989852958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_174
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aec5294a701e33c0800000000000000
+      internalID: -4378043670358274392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_175
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ed8f5ce2e5148b0800000000000000
+      internalID: -5169747342261690812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_176
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d259754108eacf80800000000000000
+      internalID: -8085395088832113965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_177
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6517fe6044b407c50800000000000000
+      internalID: 6660906604427178326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_178
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1c262d7404d10f0800000000000000
+      internalID: -1144688053065694770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_179
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a48edc4fb6782460800000000000000
+      internalID: 7217148966861702308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_180
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8714451da242eb160800000000000000
+      internalID: 7043106633573220728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_181
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecdb4210d5ddb500800000000000000
+      internalID: 413721830424829152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_182
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208abc0631f4a8dc0800000000000000
+      internalID: -3636006804501321726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_183
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2872d0bcaa48d4000800000000000000
+      internalID: 21819442292664194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_184
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b571df0b11580750800000000000000
+      internalID: 6271351657784767922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_185
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4041d45086e075900800000000000000
+      internalID: 673022509243503620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_186
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd5028072e5ddd30800000000000000
+      internalID: 4457822727899733496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_187
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae5a5e1a65499ba0800000000000000
+      internalID: -6081753499709055314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_188
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0e6123153a5db00800000000000000
+      internalID: 852767273584615635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_189
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76270eb44bb06440800000000000000
+      internalID: 4927143896263632508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_190
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b0b8caac30b98a0800000000000000
+      internalID: -6297435484934436058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetBasicoSuperficie(Hierba)_water_191
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cc167d7ff89b080800000000000000
+      internalID: -9171140871530099582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

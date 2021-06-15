@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: e6eefb0055b9a8b469dd35ad48968bd0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2629808894491424263
+    second: Leaf_4_0
+  - first:
+      213: -3205035115006593846
+    second: Leaf_4_1
+  - first:
+      213: 2814504807494265890
+    second: Leaf_4_2
+  - first:
+      213: -4286041759965759335
+    second: Leaf_4_3
+  - first:
+      213: 5085094263849567514
+    second: Leaf_4_4
+  - first:
+      213: -2770263845521681413
+    second: Leaf_4_5
+  - first:
+      213: -6398279882421902984
+    second: Leaf_4_6
+  - first:
+      213: -3817991877985317339
+    second: Leaf_4_7
+  - first:
+      213: -4698655086318417204
+    second: Leaf_4_8
+  - first:
+      213: 8407783406016130965
+    second: Leaf_4_9
+  - first:
+      213: -2148072198692953040
+    second: Leaf_4_10
+  - first:
+      213: -5174108797834550076
+    second: Leaf_4_11
+  - first:
+      213: 4828848722853772411
+    second: Leaf_4_12
+  - first:
+      213: 9114735946596754608
+    second: Leaf_4_13
+  - first:
+      213: -7639608551064940845
+    second: Leaf_4_14
+  - first:
+      213: -1469307065100845270
+    second: Leaf_4_15
+  - first:
+      213: -4462177609759213158
+    second: Leaf_4_16
+  - first:
+      213: 8399123922261122170
+    second: Leaf_4_17
+  - first:
+      213: 4301867361014825142
+    second: Leaf_4_18
+  - first:
+      213: -4661158556548549767
+    second: Leaf_4_19
+  - first:
+      213: -1283001296463576642
+    second: Leaf_4_20
+  - first:
+      213: 4133517892769617679
+    second: Leaf_4_21
+  - first:
+      213: 1212225938996488134
+    second: Leaf_4_22
+  - first:
+      213: -2339175884827751041
+    second: Leaf_4_23
+  - first:
+      213: 3840637022031575305
+    second: Leaf_4_24
+  - first:
+      213: 7791937128042690474
+    second: Leaf_4_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Leaf_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706f2579145fe7420800000000000000
+      internalID: 2629808894491424263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4f06d3b8d6583d0800000000000000
+      internalID: -3205035115006593846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c2355e5312f0720800000000000000
+      internalID: 2814504807494265890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99830cc4abbe484c0800000000000000
+      internalID: -4286041759965759335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15412e7a42e19640800000000000000
+      internalID: 5085094263849567514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf39291c5bb0e89d0800000000000000
+      internalID: -2770263845521681413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871e6b2b85eb437a0800000000000000
+      internalID: -6398279882421902984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ecb559d94c30bc0800000000000000
+      internalID: -3817991877985317339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca88e1f7160bceb0800000000000000
+      internalID: -4698655086318417204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fe30026727ea470800000000000000
+      internalID: 8407783406016130965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034a30d57b38032e0800000000000000
+      internalID: -2148072198692953040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c429d3467fd138b0800000000000000
+      internalID: -5174108797834550076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c3ccf3454830340800000000000000
+      internalID: 4828848722853772411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4226e2d0c0e7e70800000000000000
+      internalID: 9114735946596754608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deccbacf78aaf590800000000000000
+      internalID: -7639608551064940845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_15
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f31be4209fb9be0800000000000000
+      internalID: -1469307065100845270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99b9950b192312c0800000000000000
+      internalID: -4462177609759213158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c1cd2f4beaf8470800000000000000
+      internalID: 8399123922261122170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0c224929d43bb30800000000000000
+      internalID: 4301867361014825142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973b62b1dfc305fb0800000000000000
+      internalID: -4661158556548549767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb14ce55e1dd13ee0800000000000000
+      internalID: -1283001296463576642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0711478f943d5930800000000000000
+      internalID: 4133517892769617679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c76661a111b2d010800000000000000
+      internalID: 1212225938996488134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_23
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d8ead1de3998fd0800000000000000
+      internalID: -2339175884827751041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 12.96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909f761e50fac4530800000000000000
+      internalID: 3840637022031575305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf_4_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa77925d885822c60800000000000000
+      internalID: 7791937128042690474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

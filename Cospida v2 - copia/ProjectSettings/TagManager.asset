@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ataque
+  - Enemy
+  - Pared
+  - Playervul
+  - Tierra
+  - Obstaculo
+  - Pared exterior
+  - proyectilMalo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacle
+  - Enemy
+  - Player
+  - Pared exterior
+  - pointColliderCamera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: suelos
+    uniqueID: 1259773775
+    locked: 0
+  - name: pegados al suelo
+    uniqueID: 3858182407
+    locked: 0
+  - name: Objetos
+    uniqueID: 3344503389
+    locked: 0
+  - name: Paredes
+    uniqueID: 3003472419
+    locked: 0
+  - name: Personajes
+    uniqueID: 390991599
+    locked: 0
+  - name: encimaPersonaje
+    uniqueID: 2328334437
+    locked: 0
+  - name: objectos - paredes
+    uniqueID: 4142366885
+    locked: 0
