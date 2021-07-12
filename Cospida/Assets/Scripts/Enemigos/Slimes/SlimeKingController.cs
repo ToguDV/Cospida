@@ -13,9 +13,11 @@ public class SlimeKingController : EnemigoBasico
     public Sacudida sacudida;
     public static bool canCarga = true;
     public GameObject escudo;
+    public ArenaManager sceneManager;
     float maxVida;
     void Start()
     {
+
         FaseController.bossFase = 0;
         maxVida = 15;
         escudo.SetActive(true);
@@ -24,6 +26,7 @@ public class SlimeKingController : EnemigoBasico
         sacudida = GameObject.Find("Sacudida").GetComponent<Sacudida>();
         Inicial();
         aipath = GetComponentInParent<AIPath>();
+        sceneManager = GameObject.Find("SceneManager").GetComponent<ArenaManager>();
     }
 
     // Update is called once per frame
@@ -67,8 +70,8 @@ public class SlimeKingController : EnemigoBasico
         {
 
             animator.SetBool("isDeath", true);
-            
-            coreGanar.Ganar(2, "Mazmorra");
+
+            sceneManager.GanarArena();
         }
 
 

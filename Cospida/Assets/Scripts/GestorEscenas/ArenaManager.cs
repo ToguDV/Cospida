@@ -28,6 +28,8 @@ public class ArenaManager : MonoBehaviour
 
     public void GanarArena()
     {
+
+
         if (nextIsBoss)
         {
             animCalavera.SetBool("active", true);

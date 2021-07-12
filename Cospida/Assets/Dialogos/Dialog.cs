@@ -19,6 +19,7 @@ public class Dialog : MonoBehaviour
 
     private void Awake()
     {
+        textDisplay.text = "";
         first = true;
     }
 
@@ -50,13 +51,32 @@ public class Dialog : MonoBehaviour
     void Update()
     {
 
-        if ((Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.Z)) && textDisplay.text == sentences[index])
+        InputDetect();
+
+    }
+
+    void InputDetect()
+    {
+        if (textDisplay.text == sentences[index])
         {
-            textDisplayAnim.SetBool("Change", true);
-            NextSentence();
+
+            if ((Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.Z)))
+            {
+                PreNextSentence();
+            }
+
+            if (Input.GetMouseButtonDown(0))
+            {
+                PreNextSentence();
+            }
+
         }
+    }
 
-
+    void PreNextSentence()
+    {
+        textDisplayAnim.SetBool("Change", true);
+        NextSentence();
     }
 
     IEnumerator Type()

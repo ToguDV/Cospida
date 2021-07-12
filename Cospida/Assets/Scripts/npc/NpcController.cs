@@ -8,6 +8,11 @@ public class NpcController : MonoBehaviour
     Animator animator;
 
 
+    private void Awake()
+    {
+        dialogContainer.SetActive(false);
+    }
+
     private void Start()
     {
         animator = GetComponent<Animator>();

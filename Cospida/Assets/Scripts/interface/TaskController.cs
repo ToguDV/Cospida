@@ -27,6 +27,11 @@ public class TaskController : MonoBehaviour
     public const string Id = "Knife0";
 
 
+    private void Awake()
+    {
+        GFX.SetActive(false);
+    }
+
     void Start()
     {
 

@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_UseShadowmask: 1
+  m_UseShadowmask: 0
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -10706,7 +10706,7 @@ MonoBehaviour:
   m_Priority: 10
   m_StandbyUpdate: 2
   m_LookAt: {fileID: 0}
-  m_Follow: {fileID: 1082632369}
+  m_Follow: {fileID: 0}
   m_Lens:
     FieldOfView: 60
     OrthographicSize: 12.8
@@ -13208,9 +13208,7 @@ MonoBehaviour:
   - {fileID: 8762975615224833309, guid: 0ce60420e1c67254287b5fff76568ec5, type: 3}
   - {fileID: 6555157943951687448, guid: c5db08437d5cc3c4591e9abba82ba32e, type: 3}
   canRandom: 0
-  thisLevel: 2
   MaxEnemyOnGame: 4
-  faseController: {fileID: 0}
 --- !u!4 &749178069
 Transform:
   m_ObjectHideFlags: 0
@@ -24023,12 +24021,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 976a3e1685b7537499a7e9edcaa0cf94, type: 3}
---- !u!4 &1082632369 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 262385337707278453, guid: a43fa1a520ffe8442aa9cf875c6f5aaf,
-    type: 3}
-  m_PrefabInstance: {fileID: 1947958590}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1086779126
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -70196,4 +70188,4 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
