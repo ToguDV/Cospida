@@ -30,29 +30,32 @@ public class Attack1Bandido : StateMachineBehaviour
         
         if (stateInfo.normalizedTime >= 0.7f)
         {
-            
-            if (animator.GetFloat("x") == 0 && animator.GetFloat("y") == 1)
+            switch (GetCurrentClipName(animator))
             {
-                tempAttackPos = 0;
-                enemigoConMovimiento.attack1Positions[0].SetActive(true);
-            }
+                case "Ataque1Arriba":
+                    tempAttackPos = 0;
+                    enemigoConMovimiento.attack1Positions[0].SetActive(true);
+                    break;
 
-            else if (animator.GetFloat("x") == 0 && animator.GetFloat("y") == -1)
-            {
-                tempAttackPos = 1;
-                enemigoConMovimiento.attack1Positions[1].SetActive(true);
-            }
+                case "ataque1Abajo":
+                    tempAttackPos = 1;
+                    enemigoConMovimiento.attack1Positions[1].SetActive(true);
+                    break;
 
-            else if (animator.GetFloat("x") == 1 && animator.GetFloat("y") == 0)
-            {
-                tempAttackPos = 2;
-                enemigoConMovimiento.attack1Positions[2].SetActive(true);
-            }
+                case "ataque1Derecho":
+                    tempAttackPos = 2;
+                    enemigoConMovimiento.attack1Positions[2].SetActive(true);
 
-            else if (animator.GetFloat("x") == -1 && animator.GetFloat("y") == 0)
-            {
-                tempAttackPos = 3;
-                enemigoConMovimiento.attack1Positions[3].SetActive(true);
+                    break;
+
+                case "ataque1Izquierdo":
+                    tempAttackPos = 3;
+                    enemigoConMovimiento.attack1Positions[3].SetActive(true);
+                    break;
+
+                default:
+
+                    break;
             }
 
         }
@@ -84,6 +87,12 @@ public class Attack1Bandido : StateMachineBehaviour
     {
         enemigoConMovimiento.setProtected(true);
         animator.SetBool("Attack1", false);
+    }
+
+    public string GetCurrentClipName(Animator animator)
+    {
+        clipInfo = animator.GetCurrentAnimatorClipInfo(0);
+        return clipInfo[0].clip.name;
     }
 
     // OnStateMove is called right after Animator.OnAnimatorMove()

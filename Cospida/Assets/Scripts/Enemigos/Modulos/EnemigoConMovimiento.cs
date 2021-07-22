@@ -13,6 +13,7 @@ public class EnemigoConMovimiento : EnemigoBasico
     public CircleCollider2D collider2D;
     int combo;
     public GameObject[] attack1Positions;
+    public GameObject[] attack2Positions;
     // Start is called before the first frame update
     void Awake()
     {

@@ -19,8 +19,13 @@ public class CorriendoBanditBoss : StateMachineBehaviour
     {
         if(Vector3.Distance(animator.gameObject.transform.position, enemigoConMovimiento.GetObjetivo().transform.position) <= acercamiento)
         {
-            Debug.LogWarning("La distancia entre los dos ha sido de: " + Vector3.Distance(animator.gameObject.transform.position, enemigoConMovimiento.GetObjetivo().transform.position));
             animator.SetBool("Attack1", true);
+        }
+
+        if(HurtBanditBoss.hits >= 4)
+        {
+            animator.SetBool("Attack2", true);
+            HurtBanditBoss.hits = 0;
         }
 
 

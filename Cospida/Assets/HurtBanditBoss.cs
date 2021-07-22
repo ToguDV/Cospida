@@ -7,8 +7,10 @@ public class HurtBanditBoss : StateMachineBehaviour
 
     float time = 0;
     public float duracion = 3;
+    public static int hits;
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
+        hits++;
         time = 0;
     }
 
