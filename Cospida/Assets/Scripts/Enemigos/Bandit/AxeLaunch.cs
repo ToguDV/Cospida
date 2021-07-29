@@ -8,6 +8,7 @@ public class AxeLaunch : MonoBehaviour
     public Rigidbody2D rb2d;
     Vector3 lastVelocity;
     public float speed;
+    public float maxVelocity;
     public float fuerza;
     public float fuerzaEmpuje;
     public float pushLimit;
@@ -22,13 +23,18 @@ public class AxeLaunch : MonoBehaviour
             Debug.LogWarning(hit2D.point);
         }
 
-        rb2d.velocity = ((player.transform.position - transform.position) * Mathf.Max(speed/3, 0f));
+        rb2d.velocity = (player.transform.position - transform.position) * speed;
     }
 
     // Update is called once per frame
     void Update()
     {
         lastVelocity = rb2d.velocity;
+    }
+
+    private void FixedUpdate()
+    {
+        rb2d.velocity = Vector2.ClampMagnitude(rb2d.velocity, maxVelocity);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

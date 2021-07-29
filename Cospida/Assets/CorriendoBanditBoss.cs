@@ -6,6 +6,8 @@ public class CorriendoBanditBoss : StateMachineBehaviour
 {
     private EnemigoConMovimiento enemigoConMovimiento;
     public float acercamiento;
+    public string[] nameAttacks;
+    private int randomPickAttack;
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         enemigoConMovimiento = animator.gameObject.GetComponent<EnemigoConMovimiento>();
@@ -25,6 +27,7 @@ public class CorriendoBanditBoss : StateMachineBehaviour
         if(HurtBanditBoss.hits >= 4)
         {
             animator.SetBool("Attack2", true);
+
             HurtBanditBoss.hits = 0;
         }
 

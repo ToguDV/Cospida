@@ -54,9 +54,10 @@ public class Attack1Bandido : StateMachineBehaviour
                     break;
 
                 default:
-
                     break;
             }
+
+            
 
         }
 

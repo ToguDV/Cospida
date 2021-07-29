@@ -36,7 +36,7 @@ public class flecha : MonoBehaviour
                     pushVelocity = Vector2.up;
 
                 }
-                transform.position = new Vector2(transform.position.x, transform.position.y + velocidad2);
+                transform.position = new Vector2(transform.position.x, transform.position.y + (velocidad2 * Time.deltaTime));
 
                 break;
 
@@ -47,7 +47,7 @@ public class flecha : MonoBehaviour
                     transform.position = Vector3.MoveTowards(transform.position, new Vector2(posOld.x, transform.position.y), velocidad1 * Time.deltaTime);
 
                 }
-                transform.position = new Vector2(transform.position.x, transform.position.y - velocidad2);
+                transform.position = new Vector2(transform.position.x, transform.position.y - (velocidad2 * Time.deltaTime));
 
                 break;
 
@@ -58,7 +58,7 @@ public class flecha : MonoBehaviour
                     transform.position = Vector3.MoveTowards(transform.position, new Vector2(transform.position.x, posOld.y), velocidad1 * Time.deltaTime);
 
                 }
-                transform.position = new Vector2(transform.position.x + velocidad2, transform.position.y);
+                transform.position = new Vector2(transform.position.x + (velocidad2 * Time.deltaTime), transform.position.y);
 
                 break;
 
@@ -69,7 +69,7 @@ public class flecha : MonoBehaviour
                     transform.position = Vector3.MoveTowards(transform.position, new Vector2(transform.position.x, posOld.y), velocidad1 * Time.deltaTime);
 
                 }
-                transform.position = new Vector2(transform.position.x - velocidad2, transform.position.y);
+                transform.position = new Vector2(transform.position.x - (velocidad2 * Time.deltaTime), transform.position.y);
 
                 break;
 
