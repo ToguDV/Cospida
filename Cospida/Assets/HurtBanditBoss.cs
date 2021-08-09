@@ -8,10 +8,24 @@ public class HurtBanditBoss : StateMachineBehaviour
     float time = 0;
     public float duracion = 3;
     public static int hits;
+    EnemigoConMovimiento enemigoConMovimiento;
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
+        
+        enemigoConMovimiento = animator.gameObject.GetComponent<EnemigoConMovimiento>();
+        enemigoConMovimiento.setProtected(true);
         hits++;
         time = 0;
+
+        if (hits >= 4)
+        {
+            enemigoConMovimiento.aipath.maxSpeed = 15f;
+            CorriendoBanditBoss.isRunAttack2 = true;
+            enemigoConMovimiento.setProtected(true);
+
+
+
+        }
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks

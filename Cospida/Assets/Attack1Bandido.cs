@@ -11,6 +11,8 @@ public class Attack1Bandido : StateMachineBehaviour
     float time;
     public float delayFinish;
     int tempAttackPos;
+    Vector3 temp;
+
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         delayFinish = 2f;
@@ -21,6 +23,11 @@ public class Attack1Bandido : StateMachineBehaviour
         enemigoConMovimiento.setProtected(false);
         Debug.Log("Ataque 1 inicializado");
         delayFinish += 0.4f;
+        temp = new Vector3(enemigoConMovimiento.GetObjetivo().transform.position.x - animator.transform.position.x, enemigoConMovimiento.GetObjetivo().transform.position.y - animator.transform.position.y).normalized;
+        temp.x = Mathf.Round(temp.x);
+        temp.y = Mathf.Round(temp.y);
+        animator.SetFloat("x", temp.x);
+        animator.SetFloat("y", temp.y);
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
@@ -86,6 +93,7 @@ public class Attack1Bandido : StateMachineBehaviour
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
+        enemigoConMovimiento.attack1Positions[tempAttackPos].SetActive(false);
         enemigoConMovimiento.setProtected(true);
         animator.SetBool("Attack1", false);
     }

@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Pathfinding;
-
 public class EnemigoConMovimiento : EnemigoBasico
 {
     Vector3 last = Vector3.zero;
@@ -10,6 +9,7 @@ public class EnemigoConMovimiento : EnemigoBasico
     public AIPath aipath;
     public AIDestinationSetter destination;
     public bool combed = false;
+    public int nCombed;
     public CircleCollider2D collider2D;
     int combo;
     public GameObject[] attack1Positions;
@@ -52,11 +52,11 @@ public class EnemigoConMovimiento : EnemigoBasico
     public void OnTriggerEnter2D(Collider2D collision)
     {
 
-        if (collision.gameObject.CompareTag("ataque") && isProtected)
+        if (collision.gameObject.CompareTag("ataque") && isProtected && !CorriendoBanditBoss.isRunAttack2)
         {
             animator.SetBool("isMiss", true);
             combo++;
-            if (combo >= 2)
+            if (combo >= nCombed)
             {
                 isProtected = true;
                 combo = 0;

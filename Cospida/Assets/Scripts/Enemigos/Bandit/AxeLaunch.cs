@@ -12,6 +12,7 @@ public class AxeLaunch : MonoBehaviour
     public float fuerza;
     public float fuerzaEmpuje;
     public float pushLimit;
+    private Vector3 velocidadAnterior;
     void Start()
     {
         player = GameObject.Find("Player");
@@ -39,6 +40,7 @@ public class AxeLaunch : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        velocidadAnterior = rb2d.velocity;
         var speed = lastVelocity.magnitude;
         var direction = Vector3.Reflect(lastVelocity.normalized, collision.contacts[0].normal);
         rb2d.velocity = direction * Mathf.Max(speed, 0f);
@@ -46,7 +48,7 @@ public class AxeLaunch : MonoBehaviour
         {
             EnemigoBasico.canDamage = false;
             print("pegale we");
-            player.GetComponent<PlayerController>().Herirse(fuerza, fuerzaEmpuje, rb2d.velocity, pushLimit);
+            player.GetComponent<PlayerController>().Herirse(fuerza, fuerzaEmpuje, velocidadAnterior, pushLimit);
         }
     }
 

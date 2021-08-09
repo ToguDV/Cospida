@@ -12,6 +12,7 @@ TagManager:
   - Obstaculo
   - Pared exterior
   - proyectilMalo
+  - posRunAttack2
   layers:
   - Default
   - TransparentFX

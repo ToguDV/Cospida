@@ -13,7 +13,9 @@ public class Attack3Bandido : StateMachineBehaviour
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
+        
         enemigoConMovimiento = animator.gameObject.GetComponent<EnemigoConMovimiento>();
+        enemigoConMovimiento.setProtected(true);
         time = 0f;
         first = true;
     }
@@ -26,24 +28,35 @@ public class Attack3Bandido : StateMachineBehaviour
         {
             first = false;
             Instantiate(efectoAtaque3, animator.transform.position, Quaternion.identity);
-            enemigoConMovimiento.collider2D.radius = 5.39f;
+            enemigoConMovimiento.collider2D.radius = 6f;
 
         }
 
-        if(stateInfo.normalizedTime >= 1)
+        if (stateInfo.normalizedTime >= 0.32f)
+        {
+            enemigoConMovimiento.setProtected(false);
+            enemigoConMovimiento.collider2D.radius = 0.58f;
+        }
+
+
+
+            if (stateInfo.normalizedTime >= 1)
         {
             animator.SetBool("Attack3", false);
-            enemigoConMovimiento.collider2D.radius = 1.5f;
+            enemigoConMovimiento.collider2D.radius = 0.58f;
             enemigoConMovimiento.setProtected(true);
             animator.SetBool("isMiss", false);
         }
     }
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
-    //override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
-    //{
-    //    
-    //}
+    override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
+    {
+        animator.SetBool("Attack3", false);
+        enemigoConMovimiento.collider2D.radius = 1.5f;
+        enemigoConMovimiento.setProtected(true);
+        animator.SetBool("isMiss", false);
+    }
 
     // OnStateMove is called right after Animator.OnAnimatorMove()
     //override public void OnStateMove(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)

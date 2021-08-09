@@ -29,12 +29,18 @@ public class PeaksController : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D collision)
     {
-        isPlayer = true;
+        if (collision.gameObject.CompareTag("Playervul") && !manual)
+        {
+            isPlayer = true;
+        }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        isPlayer = false;
+        if (collision.gameObject.CompareTag("Playervul") && !manual)
+        {
+            isPlayer = false;
+        }
     }
     public void ManualActivation()
     {
