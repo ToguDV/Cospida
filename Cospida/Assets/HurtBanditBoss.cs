@@ -9,10 +9,16 @@ public class HurtBanditBoss : StateMachineBehaviour
     public float duracion = 3;
     public static int hits;
     EnemigoConMovimiento enemigoConMovimiento;
+    Vector3 temp;
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        
         enemigoConMovimiento = animator.gameObject.GetComponent<EnemigoConMovimiento>();
+        temp = new Vector3(enemigoConMovimiento.GetObjetivo().transform.position.x - animator.transform.position.x, enemigoConMovimiento.GetObjetivo().transform.position.y - animator.transform.position.y).normalized;
+        temp.x = Mathf.Round(temp.x);
+        temp.y = Mathf.Round(temp.y);
+        animator.SetFloat("x", temp.x);
+        animator.SetFloat("y", temp.y);
+        
         enemigoConMovimiento.setProtected(true);
         hits++;
         time = 0;
@@ -36,6 +42,7 @@ public class HurtBanditBoss : StateMachineBehaviour
         if (time >= duracion)
         {
             animator.SetBool("isDamaged", false);
+            enemigoConMovimiento.setRigidBody2D(Vector2.zero);
         }
     }
 

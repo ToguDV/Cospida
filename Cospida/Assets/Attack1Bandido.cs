@@ -12,9 +12,12 @@ public class Attack1Bandido : StateMachineBehaviour
     public float delayFinish;
     int tempAttackPos;
     Vector3 temp;
+    public GameObject efectoAtaque;
+    bool once;
 
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
+        once = true;
         delayFinish = 2f;
         tempAttackPos = 0;
         time = 0;
@@ -34,30 +37,40 @@ public class Attack1Bandido : StateMachineBehaviour
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         time += Time.deltaTime;
-        
-        if (stateInfo.normalizedTime >= 0.7f)
+        GameObject temp;
+        if (stateInfo.normalizedTime >= 0.7f && once)
         {
+            Debug.Log(GetCurrentClipName(animator));
+            once = false;
             switch (GetCurrentClipName(animator))
             {
                 case "Ataque1Arriba":
                     tempAttackPos = 0;
                     enemigoConMovimiento.attack1Positions[0].SetActive(true);
+                    temp = Instantiate(efectoAtaque, new Vector3(-0.03f, 0.53f), Quaternion.Euler(-90f, 0f, 0f));
+                    temp.transform.SetParent(animator.gameObject.transform, false);
                     break;
 
                 case "ataque1Abajo":
                     tempAttackPos = 1;
                     enemigoConMovimiento.attack1Positions[1].SetActive(true);
+                    temp = Instantiate(efectoAtaque, new Vector3(-0.03f, -0.34f), Quaternion.Euler(90f, 0f, 0f));
+                    temp.transform.SetParent(animator.gameObject.transform, false);
                     break;
 
                 case "ataque1Derecho":
                     tempAttackPos = 2;
                     enemigoConMovimiento.attack1Positions[2].SetActive(true);
+                    temp = Instantiate(efectoAtaque, new Vector3(0.98f, -0.4f), Quaternion.Euler(180f, -90f, 0f));
+                    temp.transform.SetParent(animator.gameObject.transform, false);
 
                     break;
 
                 case "ataque1Izquierdo":
                     tempAttackPos = 3;
                     enemigoConMovimiento.attack1Positions[3].SetActive(true);
+                    temp = Instantiate(efectoAtaque, new Vector3(-0.91f, -0.4f), Quaternion.Euler(180f, 90f, 0f));
+                    temp.transform.SetParent(animator.gameObject.transform, false);
                     break;
 
                 default:

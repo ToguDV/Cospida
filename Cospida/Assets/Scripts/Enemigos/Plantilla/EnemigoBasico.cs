@@ -141,7 +141,7 @@ public class EnemigoBasico : MonoBehaviour
 
         if (collision.gameObject.CompareTag("Playervul") && gameObject.CompareTag("Enemy"))
         {
-            
+            Debug.LogWarning("PEGALEEEEE");
             Herir(collision.gameObject.GetComponentInParent<PlayerController>());
         }
 

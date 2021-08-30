@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Pathfinding;
 
 public class AxeLaunch : MonoBehaviour
 {
@@ -13,8 +14,22 @@ public class AxeLaunch : MonoBehaviour
     public float fuerzaEmpuje;
     public float pushLimit;
     private Vector3 velocidadAnterior;
+    public AIPath ai;
+    public AIDestinationSetter aIDestinationSetter;
+    bool onceCollision;
+    EnemigoConMovimiento enemigoConMovimiento;
+    GameObject bossBandit;
+
+    private void Awake()
+    {
+        ai.enabled = false;
+    }
+
     void Start()
     {
+        onceCollision = false;
+        enemigoConMovimiento = GameObject.Find("Boss bandido").GetComponentInChildren<EnemigoConMovimiento>();
+        bossBandit = GameObject.Find("Boss bandido");
         player = GameObject.Find("Player");
         RaycastHit2D hit2D = Physics2D.Raycast(transform.position, player.transform.position - transform.position, Mathf.Infinity, LayerMask.GetMask("Player"));
 
@@ -30,6 +45,18 @@ public class AxeLaunch : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        if (onceCollision)
+        {
+            ai.enabled = true;
+            aIDestinationSetter.target = bossBandit.transform;
+            if (ai.reachedDestination)
+            {
+                enemigoConMovimiento.SetAnimatorBool("Attack2", false);
+                Destroy(gameObject);
+            }
+
+        }
         lastVelocity = rb2d.velocity;
     }
 
@@ -40,6 +67,7 @@ public class AxeLaunch : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        onceCollision = true;
         velocidadAnterior = rb2d.velocity;
         var speed = lastVelocity.magnitude;
         var direction = Vector3.Reflect(lastVelocity.normalized, collision.contacts[0].normal);
@@ -47,7 +75,6 @@ public class AxeLaunch : MonoBehaviour
         if (collision.gameObject.CompareTag("Player") && gameObject.CompareTag("Enemy") && EnemigoBasico.canDamage)
         {
             EnemigoBasico.canDamage = false;
-            print("pegale we");
             player.GetComponent<PlayerController>().Herirse(fuerza, fuerzaEmpuje, velocidadAnterior, pushLimit);
         }
     }

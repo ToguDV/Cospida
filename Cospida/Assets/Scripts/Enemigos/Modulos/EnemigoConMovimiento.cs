@@ -5,6 +5,7 @@ using Pathfinding;
 public class EnemigoConMovimiento : EnemigoBasico
 {
     Vector3 last = Vector3.zero;
+    public GameObject sudor;
     public GameObject padre;
     public AIPath aipath;
     public AIDestinationSetter destination;
@@ -28,8 +29,8 @@ public class EnemigoConMovimiento : EnemigoBasico
 
         if (movimiento && !animator.GetBool("isDamaged"))
         {
-
-            movement = aipath.velocity;
+            movement = aipath.desiredVelocity;
+            pushVelocity = aipath.velocity;
             movement.Normalize();
             movement.x = Mathf.RoundToInt(movement.x);
             movement.y = Mathf.RoundToInt(movement.y);
@@ -39,6 +40,7 @@ public class EnemigoConMovimiento : EnemigoBasico
         }
     }
 
+
     public bool getMovimiento()
     {
         return movimiento;
@@ -46,6 +48,11 @@ public class EnemigoConMovimiento : EnemigoBasico
     public Vector2 getMovement()
     {
         return movement;
+    }
+
+    public void SetAnimatorBool(string name, bool value)
+    {
+        animator.SetBool(name, value);
     }
 
 
@@ -67,9 +74,16 @@ public class EnemigoConMovimiento : EnemigoBasico
         if (collision.gameObject.CompareTag("ataque") && !gameObject.CompareTag("Untagged"))
         {
 
-            
+
         }
 
 
+    }
+
+    public void Sweat()
+    {
+        GameObject temp;
+        temp = Instantiate(sudor, new Vector3(0.05f, 1.2f), transform.rotation);
+        temp.transform.SetParent(gameObject.transform, false);
     }
 }

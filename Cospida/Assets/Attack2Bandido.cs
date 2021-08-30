@@ -58,6 +58,13 @@ public class Attack2Bandido : StateMachineBehaviour
                     break;
             }
 
+           
+        }
+
+        if(stateInfo.normalizedTime >= 1)
+        {
+            CorriendoBanditBoss.isRunAttack2 = false;
+            
         }
     }
 
