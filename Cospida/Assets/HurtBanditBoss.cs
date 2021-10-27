@@ -23,7 +23,7 @@ public class HurtBanditBoss : StateMachineBehaviour
         hits++;
         time = 0;
 
-        if (hits >= 4)
+        if (hits >= 4 && EnemigoConMovimiento.currentFase >= 2)
         {
             enemigoConMovimiento.aipath.maxSpeed = 15f;
             CorriendoBanditBoss.isRunAttack2 = true;

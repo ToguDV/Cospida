@@ -52,6 +52,7 @@ public class Spawner : MonoBehaviour
     public int MaxEnemyOnGame = 4;
     ArenaManager arenaManager;
     FaseController faseController;
+    bool isActive = true;
 
     private void Awake()
     {
@@ -113,26 +114,35 @@ public class Spawner : MonoBehaviour
     {
         while (faseIndex <= nFases)
         {
-            while (index < getFase().Length)
+            if (isActive)
             {
+                while (index < getFase().Length)
+                {
 
-                spawnear();
-                yield return new WaitUntil(() => nEnemys - nKillsFase < MaxEnemyOnGame);
+                    spawnear();
+                    yield return new WaitUntil(() => nEnemys - nKillsFase < MaxEnemyOnGame);
 
 
-                yield return new WaitForSeconds(frecuencia);
+                    yield return new WaitForSeconds(frecuencia);
 
+                }
+
+
+                yield return new WaitUntil(() => nKillsFase >= nEnemys);
+                nKillsFase = 0;
+                nEnemys = 0;
+                faseIndex++;
+                PlayerPrefs.SetInt("faselvl" + arenaManager.currentLevel + "-" + arenaManager.subLevel, faseIndex);
+
+                faseController.Actualizar();
+                index = 0;
+                yield return new WaitForSeconds(restTime);
             }
 
-            yield return new WaitUntil(() => nKillsFase >= nEnemys);
-            nKillsFase = 0;
-            nEnemys = 0;
-            faseIndex++;
-            PlayerPrefs.SetInt("faselvl" + arenaManager.currentLevel + "-" + arenaManager.subLevel, faseIndex);
-
-            faseController.Actualizar();
-            index = 0;
-            yield return new WaitForSeconds(restTime);
+            else
+            {
+                yield return new WaitForSeconds(0.5f);
+            }
         }
 
 
@@ -162,81 +172,101 @@ public class Spawner : MonoBehaviour
             yield return new WaitForSeconds(restTime);
         }
 
-        PlayerPrefs.SetString("NivelWin"+arenaManager.currentLevel, "-"+arenaManager.subLevel);
-        arenaManager.GanarArena();
-
-
-
-
-    }
-
-    public GameObject[] getFase()
-    {
-        switch (faseIndex)
+        PlayerPrefs.SetString("NivelWin" + arenaManager.currentLevel, "-" + arenaManager.subLevel);
+        if (isActive)
         {
-            case 1:
-                return fase1;
-            case 2:
-                return fase2;
-            case 3:
-                return fase3;
-            case 4:
-                return fase4;
-            case 5:
-                return fase5;
-            case 6:
-                return fase6;
-            case 7:
-                return fase7;
-            case 8:
-                return fase8;
-            case 9:
-                return fase9;
-            case 10:
-                return fase10;
-            case 11:
-                return fase11;
-            case 12:
-                return fase12;
-            case 13:
-                return fase13;
-            case 14:
-                return fase14;
-            case 15:
-                return fase15;
-            case 16:
-                return fase16;
-            case 17:
-                return fase17;
-            case 18:
-                return fase18;
-            case 19:
-                return fase19;
-            case 20:
-                return fase20;
-            case 21:
-                return fase21;
-            case 22:
-                return fase22;
-            case 23:
-                return fase23;
-            case 24:
-                return fase24;
-            case 25:
-                return fase25;
-            case 26:
-                return fase26;
-            case 27:
-                return fase27;
-            case 28:
-                return fase20;
-            case 29:
-                return fase29;
-            case 30:
-                return fase30;
-            default: return fase1;
+            Debug.Log("tamos activos");
+            arenaManager.GanarArena();
         }
+
+
+
+
+    }
+    
+    public void StartSpawner()
+    {
+        isActive = true;
+    }
+
+    public void StopSpawner()
+    {
+        isActive = false;
+    }
+
+    public bool getActive()
+    {
+        return isActive;
     }
 
 
-}
+        public GameObject[] getFase()
+        {
+            switch (faseIndex)
+            {
+                case 1:
+                    return fase1;
+                case 2:
+                    return fase2;
+                case 3:
+                    return fase3;
+                case 4:
+                    return fase4;
+                case 5:
+                    return fase5;
+                case 6:
+                    return fase6;
+                case 7:
+                    return fase7;
+                case 8:
+                    return fase8;
+                case 9:
+                    return fase9;
+                case 10:
+                    return fase10;
+                case 11:
+                    return fase11;
+                case 12:
+                    return fase12;
+                case 13:
+                    return fase13;
+                case 14:
+                    return fase14;
+                case 15:
+                    return fase15;
+                case 16:
+                    return fase16;
+                case 17:
+                    return fase17;
+                case 18:
+                    return fase18;
+                case 19:
+                    return fase19;
+                case 20:
+                    return fase20;
+                case 21:
+                    return fase21;
+                case 22:
+                    return fase22;
+                case 23:
+                    return fase23;
+                case 24:
+                    return fase24;
+                case 25:
+                    return fase25;
+                case 26:
+                    return fase26;
+                case 27:
+                    return fase27;
+                case 28:
+                    return fase20;
+                case 29:
+                    return fase29;
+                case 30:
+                    return fase30;
+                default: return fase1;
+            }
+        }
+
+
+    }

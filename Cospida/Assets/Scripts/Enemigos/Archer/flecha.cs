@@ -30,45 +30,52 @@ public class flecha : MonoBehaviour
         switch (direction)
         {
             case 1:
+                /*
                 if (time < duracion)
                 {
                     transform.position = Vector3.MoveTowards(transform.position, new Vector2(posOld.x, transform.position.y), velocidad1 * Time.deltaTime);
                     pushVelocity = Vector2.up;
 
                 }
+                */
                 transform.position = new Vector2(transform.position.x, transform.position.y + (velocidad2 * Time.deltaTime));
 
                 break;
 
             case 2:
+                /*
                 if (time < duracion)
                 {
                     pushVelocity = Vector2.down;
                     transform.position = Vector3.MoveTowards(transform.position, new Vector2(posOld.x, transform.position.y), velocidad1 * Time.deltaTime);
 
                 }
+                */
                 transform.position = new Vector2(transform.position.x, transform.position.y - (velocidad2 * Time.deltaTime));
 
                 break;
 
             case 3:
+                /*
                 if (time < duracion)
                 {
                     pushVelocity = Vector2.right;
                     transform.position = Vector3.MoveTowards(transform.position, new Vector2(transform.position.x, posOld.y), velocidad1 * Time.deltaTime);
 
-                }
+                } */
                 transform.position = new Vector2(transform.position.x + (velocidad2 * Time.deltaTime), transform.position.y);
 
                 break;
 
             case 4:
+                /*
                 if (time < duracion)
                 {
                     pushVelocity = Vector2.left;
                     transform.position = Vector3.MoveTowards(transform.position, new Vector2(transform.position.x, posOld.y), velocidad1 * Time.deltaTime);
 
                 }
+                */
                 transform.position = new Vector2(transform.position.x - (velocidad2 * Time.deltaTime), transform.position.y);
 
                 break;

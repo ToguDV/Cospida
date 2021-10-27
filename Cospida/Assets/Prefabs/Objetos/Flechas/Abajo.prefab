@@ -97,7 +97,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidad1: 6
-  velocidad2: 15
+  velocidad2: 25
   duracion: 0.3
   direction: 2
   fuerza: 0.5

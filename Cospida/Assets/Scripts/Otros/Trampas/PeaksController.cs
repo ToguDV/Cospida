@@ -8,9 +8,21 @@ public class PeaksController : MonoBehaviour
     public bool manual;
     public float timeDelay;
     public bool isPlayer;
+    private Collider2D collider;
+
+    private void Awake()
+    {
+        collider = GetComponent<Collider2D>();    
+    }
+
     void Start()
     {
         isPlayer = false;
+        if (manual)
+        {
+            ManualActivation();
+            TriggerSetter(false);
+        }
     }
 
     // Update is called once per frame
@@ -51,5 +63,10 @@ public class PeaksController : MonoBehaviour
     public void ManualDesactivation()
     {
         animator.SetBool("isActive", false);
+    }
+
+    public void TriggerSetter(bool value)
+    {
+        collider.isTrigger = value;
     }
 }

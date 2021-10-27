@@ -52,6 +52,7 @@ public class AxeLaunch : MonoBehaviour
             aIDestinationSetter.target = bossBandit.transform;
             if (ai.reachedDestination)
             {
+                CorriendoBanditBoss.isRunAttack2 = false;
                 enemigoConMovimiento.SetAnimatorBool("Attack2", false);
                 Destroy(gameObject);
             }

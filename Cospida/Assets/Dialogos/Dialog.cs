@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using TMPro;
+using Cinemachine;
 
 public class Dialog : MonoBehaviour
 {
@@ -14,11 +15,26 @@ public class Dialog : MonoBehaviour
 
     public GameObject DialogContainer;
     public bool sendScene = false;
+    public bool setBoolAnimatorWhenFinish; 
+    public bool valueToSetAnimator;
+    public bool followCineMachine;
+    public GameObject objectToFollow;
+    public string boolAnimator;
     public string scenetoSend = "Nivel1";
     bool first;
+    public Animator animator;
+    public Vector2[] positions;
+    public float[] speeds;
+    CinemachineVirtualCamera cinemachine;
 
     private void Awake()
     {
+        if (followCineMachine)
+        {
+            cinemachine = GameObject.Find("CM").GetComponent<CinemachineVirtualCamera>();
+            cinemachine.m_Follow = objectToFollow.transform;
+        }
+        UpdateNPCPosicion();
         textDisplay.text = "";
         first = true;
     }
@@ -81,13 +97,19 @@ public class Dialog : MonoBehaviour
 
     IEnumerator Type()
     {
-
+        UpdateNPCPosicion();
         foreach (char letter in sentences[index].ToCharArray())
         {
             textDisplay.text += letter;
-            yield return new WaitForSeconds(typingSpeed);
+            yield return new WaitForSeconds(speeds[index]);
         }
 
+    }
+
+    public void UpdateNPCPosicion()
+    {
+        animator.SetFloat("x", positions[index].x);
+        animator.SetFloat("y", positions[index].y);
     }
 
     public void NextSentence()
@@ -107,6 +129,16 @@ public class Dialog : MonoBehaviour
             {
                 SceneManager.LoadScene(scenetoSend);
             }
+            if (setBoolAnimatorWhenFinish)
+            {
+                animator.SetBool(boolAnimator, valueToSetAnimator);
+            }
+
+            if (followCineMachine)
+            {
+                cinemachine.m_Follow = GameObject.Find("Player").transform;
+            }
+
             DialogContainer.SetActive(false);
         }
     }

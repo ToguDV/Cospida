@@ -5,12 +5,11 @@ using UnityEngine.UI;
 
 public class LifeSliderBanditBoss : MonoBehaviour
 {
-    private GameObject objBanditBoss;
+    public GameObject objBanditBoss;
     private EnemigoConMovimiento enemigoConMovimiento;
     public Slider slider;
     void Start()
     {
-        objBanditBoss = GameObject.Find("Boss bandido");
         enemigoConMovimiento = objBanditBoss.GetComponentInChildren<EnemigoConMovimiento>();
         slider.maxValue = enemigoConMovimiento.vida;
 

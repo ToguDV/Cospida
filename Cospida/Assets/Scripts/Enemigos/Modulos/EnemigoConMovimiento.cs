@@ -15,6 +15,9 @@ public class EnemigoConMovimiento : EnemigoBasico
     int combo;
     public GameObject[] attack1Positions;
     public GameObject[] attack2Positions;
+    public static int currentFase;
+    public Ballesta[] ballestas;
+    public GameObject dialogo;
     // Start is called before the first frame update
     void Awake()
     {
@@ -55,6 +58,23 @@ public class EnemigoConMovimiento : EnemigoBasico
         animator.SetBool(name, value);
     }
 
+    private void Update()
+    {
+        if(vida >= 30)
+        {
+            currentFase = 1;
+        }
+
+        else if (vida >= 25)
+        {
+            currentFase = 2;
+        }
+
+        else if (vida >= 15)
+        {
+            currentFase = 3;
+        }
+    }
 
     public void OnTriggerEnter2D(Collider2D collision)
     {
