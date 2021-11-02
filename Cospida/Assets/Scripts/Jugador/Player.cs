@@ -8,7 +8,7 @@ public class Player : MonoBehaviour
     public static int vidaMax = 3;
     public static float carga; //Carga de habilidad
     public static int[] estadoActual;
-    public static float fuerza = 10f; //Fuerza de ataque
+    public static float fuerza = 1f; //Fuerza de ataque
     public float velocidad;
     public static Vector2 empuje;
     void Start()

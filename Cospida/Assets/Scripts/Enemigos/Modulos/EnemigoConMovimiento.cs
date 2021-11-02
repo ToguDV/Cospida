@@ -18,6 +18,9 @@ public class EnemigoConMovimiento : EnemigoBasico
     public static int currentFase;
     public Ballesta[] ballestas;
     public GameObject dialogo;
+    public GameObject cinematicaFinal;
+    public GameObject positionDeath;
+    public GameObject positionDeathPlayer;
     // Start is called before the first frame update
     void Awake()
     {
@@ -73,6 +76,16 @@ public class EnemigoConMovimiento : EnemigoBasico
         else if (vida >= 15)
         {
             currentFase = 3;
+        }
+
+        else if (vida <= 0)
+        {
+            animator.SetBool("isDeath", true);
+            cinematicaFinal.SetActive(true);
+            padre.transform.position = positionDeath.transform.position;
+            objetivo.transform.position = positionDeathPlayer.transform.position;
+            PlayerController.canMove = false;
+            PlayerController.canAttack = false;
         }
     }
 

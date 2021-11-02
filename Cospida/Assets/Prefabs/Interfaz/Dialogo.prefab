@@ -144,14 +144,32 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textDisplay: {fileID: 3392691569548113625}
   sentences:
-  - Saludos
-  - "Gracias a ti ahora puedo admirar de nuevo el estanque todo el d\xEDa"
-  - "Tal vez sea una excusa barata de por qu\xE9 no me dibujaron de espaldas"
+  - "Se\xF1or, los preparativos est\xE1n casi listos tal y como orden\xF3. La resistencia
+    espera sus \xF3rdenes. "
+  - "Perfecto, s\xF3lo d\xE9jame..."
+  - "Pero... \xBFQui\xE9n dej\xF3 pasar a ese tipo?"
+  - "Bueno, no importa. Un poco de ejercicio tampoco me vendr\xEDa mal"
   typingSpeed: 0.02
   textDisplayAnim: {fileID: 3392691569548113627}
   DialogContainer: {fileID: 9127669927351406065}
   sendScene: 0
+  setBoolAnimatorWhenFinish: 1
+  valueToSetAnimator: 1
+  followCineMachine: 1
+  objectToFollow: {fileID: 0}
+  boolAnimator: isMove
   scenetoSend: Nivel1
+  animator: {fileID: 0}
+  positions:
+  - {x: -1, y: 0}
+  - {x: 0, y: 1}
+  - {x: 1, y: 0}
+  - {x: 1, y: 0}
+  speeds:
+  - 0.05
+  - 0.05
+  - 0.05
+  - 0.05
 --- !u!1 &3392691569548113631
 GameObject:
   m_ObjectHideFlags: 0
@@ -419,7 +437,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &3224123951938521033
 Transform:
   m_ObjectHideFlags: 0
@@ -427,7 +445,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9127669927351406065}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1165.7051, y: 726.86505, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
